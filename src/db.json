@@ -1,0 +1,2409 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Refined Steel Chair",
+            "image": "/public/images/laptop.svg",
+            "price": "216.00",
+            "colors": [
+                "gray",
+                "black",
+                "gold"
+            ],
+            "stock": 2,
+            "discount": "",
+            "description": "Dicta id harum est consequatur dolor eveniet corporis odit qui. Odio quo repudiandae nemo dolor aspernatur et ad. Laudantium voluptates deleniti. Commodi necessitatibus et ullam maiores qui sit nulla.\n \rDolorem et deserunt beatae vel quas nostrum veniam consequatur. Inventore iste laudantium beatae ad. Aut assumenda porro est sit nostrum. Vel omnis quia.\n \rDolores animi tempore nostrum quo id quos. Voluptatibus sint modi inventore sequi aut recusandae et. Odio velit aut corporis natus dolorem neque. Sed sit nulla. Qui sit assumenda architecto voluptas exercitationem et. Harum fuga officiis porro qui quas.",
+            "specifics": {
+                "display": 18,
+                "hdd": 1024,
+                "ram": 8
+            }
+        },
+        {
+            "id": 2,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Incredible Concrete Gloves",
+            "image": "/public/images/laptop.svg",
+            "price": "838.00",
+            "colors": [
+                "gold"
+            ],
+            "stock": 11,
+            "discount": "",
+            "description": "Qui deserunt facilis accusamus in veniam sint iure at. Beatae quia placeat eveniet nisi tempore beatae. Et asperiores quo sed ex quo fuga asperiores sed minima. Et repudiandae qui consequatur earum repudiandae tempore ut quasi. Laborum non sint doloribus mollitia suscipit culpa laborum consequatur illum. Sit debitis natus maxime mollitia.\n \rDolorum ea hic sunt. Similique et veniam omnis dolorem tempore quas deserunt. Sint minima quas mollitia. Ut voluptatum voluptas vero vitae est qui.\n \rA quibusdam assumenda. Quia et delectus ab. Dolores aperiam consectetur consequatur ut corrupti omnis. Omnis praesentium qui occaecati quis inventore cum quasi molestiae. Qui nulla rem quia harum non recusandae laboriosam. Optio quibusdam labore magni voluptatem doloribus iste ea velit.",
+            "specifics": {
+                "display": 15,
+                "hdd": 512,
+                "ram": 2
+            }
+        },
+        {
+            "id": 3,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Practical Rubber Car",
+            "image": "/public/images/laptop.svg",
+            "price": "846.00",
+            "colors": [
+                "gold",
+                "gray"
+            ],
+            "stock": 12,
+            "discount": "",
+            "description": "Necessitatibus adipisci est sequi. Sint omnis aut maiores quae autem. Ut occaecati sapiente explicabo voluptatem sapiente explicabo enim corrupti quia. Sed aut omnis iure tempora eligendi a. Aut repellendus est fugiat laborum quia sint quod quis. Quos explicabo sed vero fugiat est.\n \rEligendi minus dolores nihil aspernatur velit quidem rerum. Perspiciatis molestiae possimus accusantium consequatur est delectus facilis. Omnis ullam dolor amet. Eum ab quis.\n \rQuos amet magni alias temporibus sed omnis cumque dolorum. Ipsam saepe error et porro eius. Ullam voluptates exercitationem libero sunt esse. Blanditiis explicabo harum nam velit facilis a et. Officiis debitis perspiciatis deserunt temporibus. Et enim omnis non repellat.",
+            "specifics": {
+                "display": 18,
+                "hdd": 2048,
+                "ram": 4
+            }
+        },
+        {
+            "id": 4,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Sleek Wooden Mouse",
+            "image": "/public/images/laptop.svg",
+            "price": "227.00",
+            "colors": [
+                "black",
+                "gray"
+            ],
+            "stock": 5,
+            "discount": "",
+            "description": "Ratione provident veniam id ea quia animi cumque similique sapiente. Harum iure enim molestiae voluptas sapiente magnam. Dolorum accusamus dolorum dolor. Ut dolores vitae aut. Totam id nulla.\n \rDolores rerum exercitationem maiores explicabo commodi cumque. Recusandae sint fugiat voluptatem. Qui nihil maiores aut inventore iste et aperiam quo enim.\n \rFacere quis et iusto asperiores facere neque consequuntur odit. Quo optio sit. Voluptatum sint ea similique voluptatem aut. Sed ut voluptate sed illum fugiat molestiae reiciendis. Qui et veniam quis vel quibusdam blanditiis. Minus molestiae nihil atque.",
+            "specifics": {
+                "display": 22,
+                "hdd": 512,
+                "ram": 16
+            }
+        },
+        {
+            "id": 5,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Tasty Cotton Chicken",
+            "image": "/public/images/laptop.svg",
+            "price": "102.00",
+            "colors": [
+                "black",
+                "gold",
+                "gray"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Ex ut ad culpa et sequi adipisci sint maiores odio. Quia omnis id sequi vitae temporibus ipsum natus eum. Minima in reprehenderit quidem nihil nostrum qui corrupti architecto odit.\n \rVoluptas exercitationem excepturi qui qui esse magni repellendus aliquid. Laboriosam ea non consequuntur commodi. Quo sint beatae aut voluptas officia repellat porro reprehenderit soluta. Optio et vel tempora mollitia. Consequatur et accusamus placeat omnis et eligendi quae et eius. Aut ipsa accusantium dolores nostrum distinctio consequuntur qui aperiam magnam.\n \rSed molestiae culpa asperiores. Quam reiciendis in suscipit velit. Aut perferendis rerum atque id error omnis. Necessitatibus repellendus qui eius nam.",
+            "specifics": {
+                "display": 16,
+                "hdd": 1024,
+                "ram": 2
+            }
+        },
+        {
+            "id": 6,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Gorgeous Soft Sausages",
+            "image": "/public/images/laptop.svg",
+            "price": "112.00",
+            "colors": [
+                "gold"
+            ],
+            "stock": 2,
+            "discount": "",
+            "description": "Qui qui qui. Eligendi quas quo. Voluptatem voluptas rerum natus exercitationem dolorem vitae possimus dolor sint.\n \rAut iusto est. Neque quasi corporis aspernatur ad reprehenderit. Sed et sunt aut a dignissimos laudantium rerum et. Molestias sed sed tempore quia sit tempore quas quia. Autem itaque vero consectetur mollitia reiciendis quas harum unde.\n \rVoluptas est rem excepturi minus provident. At animi fugiat eius atque recusandae sed ea assumenda. Aspernatur vero perferendis similique sed velit aut corporis similique. Repellendus dignissimos aut commodi et ipsam ut omnis et. Sed aut error id quia quia eum dolores atque et.",
+            "specifics": {
+                "display": 19,
+                "hdd": 512,
+                "ram": 4
+            }
+        },
+        {
+            "id": 7,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Sleek Plastic Towels",
+            "image": "/public/images/laptop.svg",
+            "price": "136.00",
+            "colors": [
+                "gray",
+                "black",
+                "gold"
+            ],
+            "stock": 5,
+            "discount": 9,
+            "description": "Iusto voluptatem est placeat et sit quos praesentium. Ut incidunt hic distinctio deleniti voluptatem et rerum quod. Reiciendis sint cumque neque dolore dolor odit ut. Ab quo odio corrupti cupiditate consequatur officia. In aut quasi et.\n \rItaque ut non voluptatibus omnis molestias quos dolorem ex. Eos dolorem quae ea sint. Totam nobis in facere quidem. Qui delectus voluptate.\n \rRerum et eos illum iure cupiditate suscipit quia a facere. Corrupti modi nesciunt quaerat qui. Nemo quod optio et. Repellendus excepturi nisi sed rem dolores quis molestiae aperiam.",
+            "specifics": {
+                "display": 13,
+                "hdd": 512,
+                "ram": 2
+            }
+        },
+        {
+            "id": 8,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Gorgeous Wooden Keyboard",
+            "image": "/public/images/laptop.svg",
+            "price": "105.00",
+            "colors": [
+                "gold",
+                "black",
+                "gray"
+            ],
+            "stock": 1,
+            "discount": "",
+            "description": "Laboriosam officia nihil corrupti odit et qui provident voluptatum et. Totam debitis quas quae rerum eos est quo. Eos inventore nobis vel ut ut tempora rerum ipsa illum. Iusto officiis nostrum cupiditate laborum et distinctio quis.\n \rAssumenda autem velit laborum vel ullam quo inventore delectus. Vero minima enim nisi iure ut sed et. Cum voluptatem ut. Esse quod laborum. Deserunt non pariatur iste est ipsa quod. Quo nihil nesciunt.\n \rIllum adipisci nisi et aperiam. Velit aliquam et dolorum et. Quam fugiat unde sunt occaecati reprehenderit reiciendis iusto nihil reprehenderit. Voluptatem esse reprehenderit deserunt eos quia. Eaque sapiente est dolores.",
+            "specifics": {
+                "display": 19,
+                "hdd": 1024,
+                "ram": 2
+            }
+        },
+        {
+            "id": 9,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Practical Steel Bike",
+            "image": "/public/images/laptop.svg",
+            "price": "35.00",
+            "colors": [
+                "gold",
+                "black",
+                "gray"
+            ],
+            "stock": 8,
+            "discount": "",
+            "description": "Illum corporis explicabo numquam exercitationem aspernatur eius. Quisquam dolores optio aliquid nam illo quo. Omnis optio eaque sed.\n \rMaxime voluptas mollitia necessitatibus in exercitationem. Maiores veniam est sint neque perferendis non itaque nemo. Voluptatem voluptates exercitationem architecto illo omnis veritatis vitae harum minus. Non facere illum officia et aut. Quod et harum vel sint autem fugit. Et velit fuga est nostrum.\n \rFugit nihil necessitatibus libero ipsa quo mollitia excepturi qui. In exercitationem aspernatur fuga perferendis ut repellat eius fugiat. Ut similique minima temporibus sunt saepe. Ut est alias at sed fugiat veritatis. Suscipit perspiciatis nam. Distinctio consectetur velit.",
+            "specifics": {
+                "display": 14,
+                "hdd": 2048,
+                "ram": 16
+            }
+        },
+        {
+            "id": 10,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Intelligent Plastic Sausages",
+            "image": "/public/images/laptop.svg",
+            "price": "528.00",
+            "colors": [
+                "gold",
+                "gray"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Ut placeat perspiciatis totam sed maiores rerum repudiandae. Soluta quod quis in quia sequi soluta voluptates. Voluptas cum qui ratione quia. Totam ratione perspiciatis asperiores assumenda ut fugit quaerat ut. Ipsa fugit saepe.\n \rId aliquam ipsam. Commodi repellendus et natus sunt nulla sunt. Qui labore cumque ab qui.\n \rEsse quod nulla architecto voluptate sint quod ex. Sed rem provident consequuntur recusandae enim quos impedit qui doloremque. Blanditiis ea doloremque quis culpa.",
+            "specifics": {
+                "display": 21,
+                "hdd": 2048,
+                "ram": 4
+            }
+        },
+        {
+            "id": 11,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Refined Plastic Bacon",
+            "image": "/public/images/laptop.svg",
+            "price": "195.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 9,
+            "discount": "",
+            "description": "Ducimus dolor est laudantium repellendus quod. Adipisci est quam autem modi ullam fugiat. Quia id nihil dicta eum cum voluptas et blanditiis in. Corporis facilis et tempora eos aut qui ea sequi qui.\n \rEligendi consequatur repellat amet ut autem consequatur sit et dolorem. Nihil voluptate sapiente qui. Alias libero harum. Saepe aliquid quibusdam. Quae earum a qui. Deserunt nemo corrupti ut reprehenderit maiores.\n \rMagnam aperiam dicta accusantium. Omnis quidem qui eveniet qui debitis enim similique et. Ut consequuntur ut ea cumque perspiciatis aut ut. Ut aspernatur quos placeat deserunt id odit aut. Non illum natus.",
+            "specifics": {
+                "display": 15,
+                "hdd": 2048,
+                "ram": 8
+            }
+        },
+        {
+            "id": 12,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Tasty Plastic Chicken",
+            "image": "/public/images/laptop.svg",
+            "price": "906.00",
+            "colors": [
+                "black",
+                "gray",
+                "gold"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Autem autem modi et rerum molestias cum nisi. Incidunt illum quod inventore et ut blanditiis nulla aliquam. Et cum quisquam eligendi quis quod. Maxime nostrum cum dicta.\n \rQuos ut doloremque nisi corporis rerum odit. Sunt mollitia et vel. Doloremque assumenda iure quidem tempore enim nemo enim aut cumque. Omnis ipsam facilis. Eos et sit voluptas ullam repudiandae ut sint quis. Excepturi consequatur unde omnis sint enim quo corporis consequatur.\n \rAdipisci natus nostrum tenetur dolorum est rerum tempore corporis. Aut impedit exercitationem. Minima laboriosam quos. Delectus neque numquam.",
+            "specifics": {
+                "display": 13,
+                "hdd": 512,
+                "ram": 6
+            }
+        },
+        {
+            "id": 13,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Small Plastic Shirt",
+            "image": "/public/images/laptop.svg",
+            "price": "578.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 3,
+            "discount": "",
+            "description": "Placeat non adipisci. Est eos praesentium eligendi omnis reiciendis commodi sapiente cumque illo. Quo a perspiciatis minus ut modi quia atque.\n \rEsse voluptatem veniam aspernatur qui nulla tempora ad aperiam. Tempora dignissimos nihil totam minus quam. Veniam laboriosam necessitatibus numquam dicta.\n \rOfficiis deleniti exercitationem. Sit expedita accusamus voluptatem. Est deserunt quod ducimus facilis et ut cum. Aspernatur sit alias est.",
+            "specifics": {
+                "display": 14,
+                "hdd": 2048,
+                "ram": 16
+            }
+        },
+        {
+            "id": 14,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Fantastic Cotton Chair",
+            "image": "/public/images/laptop.svg",
+            "price": "101.00",
+            "colors": [
+                "black",
+                "gold",
+                "gray"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "Quisquam assumenda suscipit atque atque commodi voluptas alias aut et. Optio beatae delectus eaque ratione voluptas. Doloribus facere quod. Sit aut unde natus. Rerum dolorem eaque voluptatem molestias possimus ut exercitationem quas incidunt.\n \rAut quia praesentium recusandae itaque enim nobis. Dolore alias sit quos aut qui corrupti est voluptatem quis. Et nemo at sit voluptatem totam enim.\n \rRatione velit et accusantium mollitia. Qui minus eligendi recusandae. Illum velit hic et et et deleniti iusto ea sunt.",
+            "specifics": {
+                "display": 14,
+                "hdd": 2048,
+                "ram": 16
+            }
+        },
+        {
+            "id": 15,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Small Rubber Car",
+            "image": "/public/images/laptop.svg",
+            "price": "475.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 3,
+            "discount": "",
+            "description": "Nobis labore ab ex quidem vitae labore et. Nemo aut libero impedit rerum voluptatem. Ut laboriosam in voluptatum asperiores officiis laboriosam. Modi quod consequuntur mollitia nihil dolores. Excepturi possimus facere dolores delectus velit eveniet dolorum dolor.\n \rTemporibus qui et animi sit. Natus est temporibus. Ut fuga natus sed et repellat.\n \rIpsa sequi quisquam vitae nemo. Voluptatem architecto id incidunt rem ullam rem quis. Saepe rerum id cumque omnis velit corporis ea. Molestias non aut accusamus cupiditate. Tempora neque culpa consequatur sit tenetur cum impedit. Vel esse non aliquid quos explicabo quo facilis maxime exercitationem.",
+            "specifics": {
+                "display": 18,
+                "hdd": 512,
+                "ram": 16
+            }
+        },
+        {
+            "id": 16,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Small Metal Bacon",
+            "image": "/public/images/laptop.svg",
+            "price": "936.00",
+            "colors": [
+                "gold",
+                "gray"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Et et vero sit qui sit voluptas odio. Expedita rerum perferendis labore nulla eligendi veritatis. Itaque earum eos.\n \rIpsum quia numquam dolores. Est quo explicabo impedit voluptas iste delectus possimus quia voluptatem. Ipsa architecto nesciunt eaque voluptas voluptas aspernatur sit sit. Fugit nihil nostrum molestias cupiditate neque maiores velit aut. Nihil repellat nihil laborum quis. Odio voluptatem id at repellat qui qui magnam.\n \rAsperiores dolore illum quod aut sint. Maiores nesciunt illo id ut iure aut maxime nobis. Odio expedita perspiciatis sequi omnis doloremque veniam. Illum impedit quam ad sit aspernatur qui qui rerum non. Et laboriosam esse ducimus rem fugiat.",
+            "specifics": {
+                "display": 21,
+                "hdd": 2048,
+                "ram": 16
+            }
+        },
+        {
+            "id": 17,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Sleek Soft Hat",
+            "image": "/public/images/laptop.svg",
+            "price": "493.00",
+            "colors": [
+                "black",
+                "gray"
+            ],
+            "stock": 12,
+            "discount": "",
+            "description": "Sint cupiditate deserunt dolorem sint rerum exercitationem quidem rem. Excepturi ea maiores qui ut dolorem. Ex iusto mollitia. Itaque molestias et consequatur expedita temporibus sit. Et eos eos atque.\n \rVoluptas ut est. Voluptates inventore totam qui est eveniet molestiae eveniet doloremque. Et laborum quos accusamus. Soluta quod doloremque. Non id deserunt. Et perferendis facere facere in consequatur ipsam quis et.\n \rLibero sint amet id recusandae expedita consectetur et consequatur corporis. Voluptatem sunt molestiae culpa error architecto. Iusto sunt molestiae autem possimus.",
+            "specifics": {
+                "display": 21,
+                "hdd": 2048,
+                "ram": 4
+            }
+        },
+        {
+            "id": 18,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Licensed Rubber Mouse",
+            "image": "/public/images/laptop.svg",
+            "price": "920.00",
+            "colors": [
+                "black",
+                "gray"
+            ],
+            "stock": 1,
+            "discount": "",
+            "description": "Ex vero non. Minus velit eum sed qui facilis possimus at. Dolores sapiente velit maxime voluptate.\n \rSapiente magnam vel explicabo nisi minus et. Fugiat rerum rerum dolorem. Voluptatem earum ab quas ea similique at.\n \rQuia praesentium id sit expedita tenetur ipsa eos alias. Aut eligendi ea architecto voluptas. Facilis quos nostrum porro nam corporis. Et est praesentium eligendi. Ducimus aut consequuntur exercitationem eligendi. Nisi aut voluptatem perferendis totam itaque delectus.",
+            "specifics": {
+                "display": 23,
+                "hdd": 512,
+                "ram": 6
+            }
+        },
+        {
+            "id": 19,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Fantastic Soft Mouse",
+            "image": "/public/images/laptop.svg",
+            "price": "903.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Voluptas perspiciatis perspiciatis animi. Ipsum est incidunt in nostrum tenetur expedita aut omnis. Corrupti delectus consequatur eos et quas sed sequi.\n \rQuae est ab distinctio reiciendis fugit beatae voluptas. Qui debitis quam. Corrupti velit explicabo cum sunt et. Dolor doloribus cumque. Accusantium beatae ut qui ut quos aliquid qui.\n \rVoluptas quia ab voluptatum odio dolor. In repellendus itaque recusandae omnis eligendi qui accusamus consequatur. Pariatur eius et eaque placeat repudiandae vel assumenda. Autem adipisci quis et aut molestiae doloremque expedita soluta magnam. Harum ab iure consequatur unde commodi nobis. Ut reprehenderit molestias sint sint est aut dolor molestiae.",
+            "specifics": {
+                "display": 17,
+                "hdd": 2048,
+                "ram": 2
+            }
+        },
+        {
+            "id": 20,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Incredible Cotton Car",
+            "image": "/public/images/laptop.svg",
+            "price": "725.00",
+            "colors": [
+                "gold",
+                "gray",
+                "black"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Quidem qui tempore alias quibusdam eos rerum. Dolores voluptas sapiente ea est dolor quo ratione laudantium ullam. Accusamus est excepturi commodi aspernatur voluptate maiores et itaque accusamus.\n \rCum rerum voluptatem laboriosam neque qui consequatur. Maiores qui eos non dolore quis quo qui necessitatibus ullam. Libero omnis dolores quae accusantium laudantium voluptates est ea.\n \rCum quo ut amet occaecati sunt expedita distinctio dignissimos eum. Commodi odio autem est reiciendis placeat repellat accusantium. Quia nemo veniam exercitationem magni cum consequuntur amet eum et. Quae reiciendis fugiat modi ipsam voluptatem nihil aliquam enim.",
+            "specifics": {
+                "display": 23,
+                "hdd": 512,
+                "ram": 16
+            }
+        },
+        {
+            "id": 21,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Gorgeous Metal Soap",
+            "image": "/public/images/laptop.svg",
+            "price": "836.00",
+            "colors": [
+                "gold",
+                "gray"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Animi provident necessitatibus reprehenderit mollitia est quasi repudiandae fugiat natus. Nostrum ea eaque ex quae vero porro. Aut labore ipsum et nisi repellat et. Optio repellendus molestiae rerum qui occaecati quae.\n \rEx est qui tenetur nihil. Similique consequuntur dolorem voluptas qui nihil quia nostrum. Eos nesciunt facere pariatur. Ut ducimus debitis vitae esse. Repellendus veritatis odio iusto.\n \rOccaecati est laborum consequatur quia corporis ratione perspiciatis odit voluptatem. Iusto tempore labore voluptates veniam aut eum qui. Accusantium enim debitis fugit inventore voluptatem. Eaque quo earum eum rerum autem eum sed. Hic natus praesentium.",
+            "specifics": {
+                "display": 14,
+                "hdd": 512,
+                "ram": 6
+            }
+        },
+        {
+            "id": 22,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Awesome Fresh Computer",
+            "image": "/public/images/laptop.svg",
+            "price": "710.00",
+            "colors": [
+                "black",
+                "gray",
+                "gold"
+            ],
+            "stock": 11,
+            "discount": "",
+            "description": "Ab qui omnis dicta voluptatem veniam sequi est facilis. Itaque qui qui. Rerum asperiores odio natus voluptatem praesentium nesciunt saepe quam illo. Et aut dolor. Aspernatur hic explicabo aperiam non adipisci ut et corporis.\n \rDolores repellendus omnis enim odio voluptatem est dolor aspernatur. Nisi quo adipisci. Et et sint. Vero sint voluptatum soluta iste omnis et hic. Provident dolorum quia quia dolorum nihil voluptas. Nostrum quisquam eum.\n \rSed consequatur hic. Quo adipisci consequatur. Enim consequatur atque voluptas. Aspernatur iusto quisquam accusantium fuga. Voluptatem deleniti est magni et qui. Optio voluptatem error est assumenda dolor doloremque cupiditate sit.",
+            "specifics": {
+                "display": 20,
+                "hdd": 1024,
+                "ram": 2
+            }
+        },
+        {
+            "id": 23,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Handmade Cotton Tuna",
+            "image": "/public/images/laptop.svg",
+            "price": "985.00",
+            "colors": [
+                "gold",
+                "gray",
+                "black"
+            ],
+            "stock": 12,
+            "discount": "",
+            "description": "Atque alias quae occaecati et suscipit facilis qui ducimus. Rerum exercitationem veritatis dolores dolores eligendi occaecati reprehenderit. Vel qui consequatur quidem. Eius necessitatibus qui fugiat quam. Dolores dicta aliquid autem veritatis atque adipisci quia.\n \rQuis est et quis illo perspiciatis. Minus vero nihil omnis et. Voluptas eum harum. Fuga vero quas earum exercitationem aut numquam aut. Ipsam distinctio aut saepe.\n \rPerferendis sunt in laboriosam id architecto fuga totam deserunt molestiae. Aliquam cum qui voluptas sequi nam. Et inventore et assumenda expedita culpa architecto nihil magnam nihil. Corrupti odio at similique laborum illum. Ipsum cumque molestiae sit. Facere consequatur eos dolorem reprehenderit saepe.",
+            "specifics": {
+                "display": 15,
+                "hdd": 2048,
+                "ram": 2
+            }
+        },
+        {
+            "id": 24,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Small Steel Gloves",
+            "image": "/public/images/laptop.svg",
+            "price": "338.00",
+            "colors": [
+                "gold",
+                "gray",
+                "black"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Ab rerum sed sit debitis eum. Saepe velit aut. Occaecati ratione labore corporis est natus. Laboriosam praesentium expedita velit ea. Sed architecto quidem et excepturi dignissimos ullam et.\n \rNecessitatibus aut et ea exercitationem maxime dolorem. Qui voluptatem quam qui non sed qui et. Aliquid ullam sequi impedit pariatur ullam tenetur dolor.\n \rIpsam iure debitis dolorum natus et quaerat. Ut dolorem tempore aspernatur itaque quo eum maiores. Ut ex explicabo occaecati veniam. Nihil labore cumque omnis natus deleniti quam corporis molestiae.",
+            "specifics": {
+                "display": 14,
+                "hdd": 512,
+                "ram": 6
+            }
+        },
+        {
+            "id": 25,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Handmade Steel Bike",
+            "image": "/public/images/laptop.svg",
+            "price": "690.00",
+            "colors": [
+                "gray",
+                "black"
+            ],
+            "stock": 6,
+            "discount": "",
+            "description": "Pariatur non velit omnis ipsum et. Ut atque et ipsa. Error et similique placeat et vitae dolorum alias consequatur. Ratione qui labore ullam.\n \rEt laborum cum itaque tenetur quis est quod. Suscipit vel possimus. Eaque id consequatur aliquam sed libero. Dolore omnis adipisci commodi quisquam.\n \rExpedita qui quos deleniti soluta sit nobis asperiores qui. Est tenetur atque rerum. Mollitia sit ut distinctio illum et dolorem aut rerum. Pariatur nisi minus dolorum commodi sed nemo eius neque. Error autem sit veniam sed.",
+            "specifics": {
+                "display": 20,
+                "hdd": 1024,
+                "ram": 2
+            }
+        },
+        {
+            "id": 26,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Handmade Steel Pizza",
+            "image": "/public/images/laptop.svg",
+            "price": "828.00",
+            "colors": [
+                "gray",
+                "black"
+            ],
+            "stock": 11,
+            "discount": "",
+            "description": "In rerum corrupti rem aperiam. Et est quis sed ipsa. Autem aspernatur cupiditate est debitis a.\n \rUt ducimus et velit quia. Recusandae odit provident omnis ad veritatis vel quaerat et. Eos aspernatur voluptas libero voluptas nihil. Quia et qui delectus doloribus voluptas sint quam earum consequatur. Reprehenderit consequuntur qui est.\n \rRepellendus iure dignissimos est aut officia. Nobis aut iure. Velit nesciunt aut.",
+            "specifics": {
+                "display": 19,
+                "hdd": 1024,
+                "ram": 2
+            }
+        },
+        {
+            "id": 27,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Unbranded Steel Chips",
+            "image": "/public/images/laptop.svg",
+            "price": "742.00",
+            "colors": [
+                "gray",
+                "black"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "Rerum dolorem sit numquam delectus nihil quidem qui tenetur. Et sed quis aliquam. Doloribus in voluptas. Et modi autem. Ducimus omnis sit dicta eos non beatae.\n \rEveniet eos delectus sequi. Molestiae explicabo dolor maxime ut quod debitis deserunt. Cum tempore aperiam labore ea quae excepturi ex est dicta. Necessitatibus voluptas qui dolores distinctio eveniet nam. Accusantium eum et tempora.\n \rQuidem rerum tempora. Dicta nihil ullam minus non quod. Id expedita sit eos. Sunt omnis in. Ut eius nobis qui fugiat.",
+            "specifics": {
+                "display": 21,
+                "hdd": 512,
+                "ram": 6
+            }
+        },
+        {
+            "id": 28,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Gorgeous Plastic Cheese",
+            "image": "/public/images/laptop.svg",
+            "price": "504.00",
+            "colors": [
+                "gray",
+                "black",
+                "gold"
+            ],
+            "stock": 6,
+            "discount": "",
+            "description": "Nihil laborum reprehenderit qui impedit repellat. Vel beatae sunt quas. Vel natus rerum nostrum et vitae. Molestias nihil optio.\n \rEt esse molestias repellendus. Non quas libero quia. Quae tempore natus minima rem. Et iste corporis pariatur error consequatur veritatis distinctio fuga beatae. Eum libero ut cum omnis vero et aut. Consequuntur accusantium voluptate sit fugiat quis.\n \rQuidem nobis sint asperiores adipisci earum iure fugit minus nihil. Ea harum animi maiores adipisci ut molestiae libero illum. Dolorem sed molestiae maxime cumque blanditiis.",
+            "specifics": {
+                "display": 15,
+                "hdd": 2048,
+                "ram": 6
+            }
+        },
+        {
+            "id": 29,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Refined Metal Table",
+            "image": "/public/images/laptop.svg",
+            "price": "767.00",
+            "colors": [
+                "gray",
+                "gold"
+            ],
+            "stock": 8,
+            "discount": "",
+            "description": "Officiis quod laudantium odit. Et officia sequi ab animi necessitatibus velit ut quibusdam cupiditate. Omnis et placeat voluptatibus et velit non in. Veniam quam fugiat consectetur.\n \rUt quia deleniti sequi doloribus pariatur vitae dolorum repudiandae. Quisquam inventore laboriosam omnis tenetur ea. Maiores ducimus dolorem dicta omnis excepturi laborum autem nobis magni. Voluptatem sint distinctio aut rerum est ut. Nihil cum porro. Consequuntur dignissimos cumque illum delectus sint ipsam ut quo maxime.\n \rIste sunt dolor. Tenetur assumenda sunt saepe incidunt at sint animi. Eaque totam aliquid dignissimos velit id. Quisquam quo enim. Ex velit eum nihil. Error dolores numquam.",
+            "specifics": {
+                "display": 18,
+                "hdd": 1024,
+                "ram": 6
+            }
+        },
+        {
+            "id": 30,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Tasty Plastic Soap",
+            "image": "/public/images/laptop.svg",
+            "price": "959.00",
+            "colors": [
+                "black",
+                "gold"
+            ],
+            "stock": 1,
+            "discount": "",
+            "description": "Consequatur modi nisi a quasi odio dolore porro. Expedita enim sed ipsum fuga dolores modi repellat quisquam. Sint velit rerum deserunt ad.\n \rIste recusandae repudiandae assumenda. Qui facere saepe. Deserunt nihil inventore numquam impedit.\n \rEt consequuntur doloremque consectetur minima id autem et. Voluptate magni sit. Quod quia commodi id quasi enim. Est suscipit quibusdam quo cumque fugiat sint quo. Porro provident cupiditate. Qui inventore dolor sint illum.",
+            "specifics": {
+                "display": 15,
+                "hdd": 512,
+                "ram": 8
+            }
+        },
+        {
+            "id": 31,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Incredible Granite Chair",
+            "image": "/public/images/laptop.svg",
+            "price": "183.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 3,
+            "discount": "",
+            "description": "Consequuntur et molestiae. Quia consequuntur accusantium dolores adipisci deserunt sed sunt dicta. Qui consequatur eum explicabo. Exercitationem id exercitationem odit aliquid. Accusamus sunt ea suscipit nam sed veniam ipsum.\n \rReprehenderit ut quae ut aperiam perferendis iusto laudantium. Sit odio qui omnis repellendus et suscipit ipsam. Autem enim repudiandae quia officiis sequi.\n \rVelit molestiae dolore et saepe molestiae ratione ut aut et. Hic ipsam omnis. Et laborum omnis sed veniam dolorem ipsa. Nemo temporibus culpa saepe assumenda debitis vero et eum. Harum doloribus itaque accusantium et quam nobis reprehenderit. Velit illum perspiciatis est eum.",
+            "specifics": {
+                "display": 23,
+                "hdd": 1024,
+                "ram": 16
+            }
+        },
+        {
+            "id": 32,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Generic Soft Soap",
+            "image": "/public/images/laptop.svg",
+            "price": "972.00",
+            "colors": [
+                "gray",
+                "gold"
+            ],
+            "stock": 5,
+            "discount": "",
+            "description": "Et incidunt ut corporis possimus totam provident. Deserunt accusamus ut aut voluptas. Doloribus rem deleniti repudiandae aut.\n \rArchitecto voluptatum repellendus accusamus aperiam rerum ratione sed. Repellendus itaque neque tempore omnis harum et non voluptas cum. Velit nihil officiis rerum libero sed officiis eum aspernatur.\n \rDeserunt repellendus ducimus officia. Doloremque occaecati neque consequatur. Voluptatibus perspiciatis exercitationem sed sit tenetur iste. In consectetur quae eum. Ipsa similique molestias voluptatem quo commodi dolor sunt. Et error modi placeat nisi at rerum tempora.",
+            "specifics": {
+                "display": 15,
+                "hdd": 512,
+                "ram": 8
+            }
+        },
+        {
+            "id": 33,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Generic Wooden Gloves",
+            "image": "/public/images/laptop.svg",
+            "price": "549.00",
+            "colors": [
+                "black",
+                "gray",
+                "gold"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "Iste laboriosam in eaque non. Quo et voluptatum eligendi ullam facilis deleniti. Et sunt ut ad eum.\n \rMolestiae consequatur et distinctio ab occaecati libero. Qui et provident dolorem autem enim hic quas non commodi. Ut tenetur minima labore est vero quod ab nobis ad. Sed modi laudantium officiis pariatur rerum similique voluptas consequatur illum.\n \rTempora excepturi velit. Mollitia aliquid et incidunt inventore inventore amet culpa. Porro et enim corporis qui corporis dicta blanditiis animi in. Libero necessitatibus reiciendis. Aliquam illum est. Vel mollitia repudiandae voluptatem nostrum minima est.",
+            "specifics": {
+                "display": 20,
+                "hdd": 512,
+                "ram": 2
+            }
+        },
+        {
+            "id": 34,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Rustic Rubber Sausages",
+            "image": "/public/images/laptop.svg",
+            "price": "890.00",
+            "colors": [
+                "gold",
+                "gray"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Esse voluptatem fuga quia ipsum. Consequatur blanditiis odit quod deleniti aliquam consequuntur quia. Fugit autem cupiditate autem facere dolorem deleniti placeat dolor atque.\n \rEt dignissimos minima porro alias in nihil sit. Cumque a fuga repudiandae. Rerum id rerum quae corrupti nemo error facilis. Doloremque nam quae facilis sequi eaque rem et non. Ab repellendus aspernatur nihil dolorem distinctio aut magni.\n \rAut quia dicta. Qui voluptatem fuga hic impedit dolores deleniti voluptates ut. Sit veritatis accusantium.",
+            "specifics": {
+                "display": 18,
+                "hdd": 1024,
+                "ram": 8
+            }
+        },
+        {
+            "id": 35,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Gorgeous Frozen Car",
+            "image": "/public/images/laptop.svg",
+            "price": "553.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Dicta labore ad molestiae est distinctio quis. Nostrum fugiat repellat commodi hic molestias quia. Illum qui pariatur velit doloribus saepe alias dolorem. Ex cum veniam. Nemo sit aut voluptatum est ipsum reprehenderit sapiente.\n \rEt veritatis quae dolorem vero amet quidem. Vel laudantium officiis deleniti laborum modi est. Sit sunt aut quis labore et.\n \rEt alias ipsam expedita molestias. Rem non eos cupiditate provident et eveniet at. Impedit aperiam quod quo. Ad consequatur odit repudiandae in maiores. Vitae sequi in ipsam et nisi. Ut similique molestias quaerat adipisci saepe.",
+            "specifics": {
+                "display": 15,
+                "hdd": 512,
+                "ram": 2
+            }
+        },
+        {
+            "id": 36,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Small Concrete Soap",
+            "image": "/public/images/laptop.svg",
+            "price": "278.00",
+            "colors": [
+                "black",
+                "gold"
+            ],
+            "stock": 12,
+            "discount": "",
+            "description": "Porro temporibus id voluptatum et autem. Et odio praesentium vero adipisci voluptatem. Et delectus error inventore consequatur quis eos ducimus sapiente. Minima libero quis rerum deleniti aut incidunt minima qui. Qui accusantium sunt autem voluptatem aut. At eaque reiciendis ad deleniti.\n \rQui fugit ea. Et veritatis facere qui rerum. Qui sit impedit amet. Rem ratione voluptates cupiditate ut dolores eligendi illum et.\n \rDucimus veniam explicabo fuga quasi et. Architecto facilis distinctio non nihil voluptatum voluptas reprehenderit eligendi. Tenetur quae aliquid rem iste. Soluta accusantium perspiciatis eius consequatur quia deleniti dolore eos. Est dolorem dolore exercitationem sit nobis necessitatibus sed est labore.",
+            "specifics": {
+                "display": 24,
+                "hdd": 512,
+                "ram": 6
+            }
+        },
+        {
+            "id": 37,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Generic Fresh Shoes",
+            "image": "/public/images/laptop.svg",
+            "price": "907.00",
+            "colors": [
+                "black",
+                "gold"
+            ],
+            "stock": 10,
+            "discount": "",
+            "description": "In praesentium consequuntur sed reiciendis illum quas dolores. Veniam omnis ex officia repellendus modi. Assumenda voluptatem hic ut fugiat quidem omnis a sit consequatur. Magnam in officia eum et ea. Suscipit nobis repellendus sint asperiores expedita.\n \rMaiores odio perspiciatis est. Eos quis temporibus iure est nostrum eaque sed. Rerum qui eos.\n \rIn vitae ipsam natus omnis saepe soluta voluptatem omnis fugit. Aut laborum nihil iure exercitationem officiis sit doloremque. Dolorem accusamus omnis dolorum magni nostrum minima enim. Sit et ea laudantium ducimus alias vel. Quia exercitationem alias aperiam sed ipsa iure earum eligendi.",
+            "specifics": {
+                "display": 24,
+                "hdd": 2048,
+                "ram": 6
+            }
+        },
+        {
+            "id": 38,
+            "category": "Laptop",
+            "brand": "Brand1",
+            "name": "Awesome Metal Shirt",
+            "image": "/public/images/laptop.svg",
+            "price": "531.00",
+            "colors": [
+                "gray",
+                "gold"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Necessitatibus nulla odit ex neque fugit ab dolorum illo optio. In sunt omnis quo dolores veritatis. Aspernatur sint id.\n \rReprehenderit architecto quidem. Qui unde voluptas aut optio aspernatur numquam culpa. Non sint dolor. Rerum facere saepe amet et enim animi incidunt id repellat. Iste eum quia asperiores et.\n \rOdio officia similique quaerat quaerat rerum excepturi. Doloremque nemo adipisci aut aspernatur ea laudantium dolores possimus voluptatem. Dolore ut et dolores. Perferendis tempora nihil nam est. Et nam reprehenderit voluptas iste aut tempora quasi et explicabo.",
+            "specifics": {
+                "display": 18,
+                "hdd": 512,
+                "ram": 16
+            }
+        },
+        {
+            "id": 39,
+            "category": "Laptop",
+            "brand": "Brand2",
+            "name": "Intelligent Soft Cheese",
+            "image": "/public/images/laptop.svg",
+            "price": "189.00",
+            "colors": [
+                "gray",
+                "gold"
+            ],
+            "stock": 8,
+            "discount": "",
+            "description": "Qui provident facere dolores velit vitae. Est explicabo aliquam consequatur quis vel perferendis ullam. Repellendus et voluptas aut atque natus ut atque.\n \rFacere exercitationem dolorem aliquam eum nemo atque perspiciatis et. Sapiente aut laudantium rem eaque occaecati quia omnis. Sunt impedit blanditiis consequuntur nemo. Officiis consectetur voluptatibus at sunt et asperiores.\n \rNeque vero expedita provident. At quisquam adipisci aspernatur eveniet sit similique eaque harum. Animi optio fuga ipsum ad dolor veritatis aut atque molestiae. Eaque ea quos blanditiis odio omnis. Eveniet amet asperiores ab eos magni rerum. Soluta dolores assumenda dolores fuga blanditiis ullam impedit consequuntur.",
+            "specifics": {
+                "display": 19,
+                "hdd": 1024,
+                "ram": 6
+            }
+        },
+        {
+            "id": 40,
+            "category": "Laptop",
+            "brand": "Brand3",
+            "name": "Intelligent Soft Gloves",
+            "image": "/public/images/laptop.svg",
+            "price": "878.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 3,
+            "discount": "",
+            "description": "Quis illo consectetur dolores laborum commodi sed. Laudantium exercitationem ut sunt. Ut et repellendus maxime quidem natus molestiae et. Minus assumenda inventore voluptates ut et hic est non. Maxime et vel consequatur dolorum voluptatem eos dolor non necessitatibus.\n \rLabore maiores sapiente placeat laboriosam dolores numquam minus. Voluptas eum et. Laudantium laudantium deleniti corrupti sint dolore.\n \rInventore facere est molestias ut quasi. Autem facilis praesentium voluptatem veritatis error. Nihil cumque perspiciatis. Adipisci provident voluptate laboriosam sed. Quia in nulla mollitia.",
+            "specifics": {
+                "display": 23,
+                "hdd": 2048,
+                "ram": 6
+            }
+        },
+        {
+            "id": 41,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Generic Plastic Keyboard",
+            "image": "/public/images/tablet.svg",
+            "price": "16.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 6,
+            "discount": "",
+            "description": "Ipsum error veritatis omnis aut molestiae consequuntur ipsa totam eum. Alias corporis repellat architecto repellendus. Qui magnam minima aliquam et et voluptas vel. Aliquam quidem ut sequi laborum alias nihil debitis. Et autem magnam incidunt occaecati quam.\n \rSint harum et impedit id. Eveniet necessitatibus occaecati placeat voluptatum. Aspernatur nihil dolores iure quam illo cupiditate.\n \rQui quo earum tempora perferendis quaerat accusantium accusamus sapiente. Aliquam aut aut deleniti ipsa et esse. Quo labore non fuga et et ad debitis.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 32,
+                "ram": 3
+            }
+        },
+        {
+            "id": 42,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Incredible Wooden Keyboard",
+            "image": "/public/images/tablet.svg",
+            "price": "649.00",
+            "colors": [
+                "black",
+                "gray"
+            ],
+            "stock": 3,
+            "discount": "",
+            "description": "Repudiandae quis totam. Recusandae ea velit velit nisi quas eveniet non ex. Qui animi voluptatem aliquam eos eum. Ab sed maiores voluptatem voluptate minus. Eligendi eos exercitationem.\n \rNisi eum id vero voluptatum. Illo dolores ea exercitationem harum ea est. Debitis quaerat molestiae illo.\n \rAdipisci ut odio nihil suscipit doloribus atque rerum aut. Amet blanditiis ea et qui odit nobis. Aut doloribus a quia beatae quae ipsum harum repellendus et.",
+            "specifics": {
+                "display": 12.2,
+                "hdd": 16,
+                "ram": 3
+            }
+        },
+        {
+            "id": 43,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Incredible Plastic Chips",
+            "image": "/public/images/tablet.svg",
+            "price": "908.00",
+            "colors": [
+                "black",
+                "gray",
+                "gold"
+            ],
+            "stock": 11,
+            "discount": "",
+            "description": "Officiis odio et dolores dolores quae aut. Beatae est vero dolores modi perspiciatis ut et voluptatem. Voluptas est nemo est fugit repellendus et. Et id sit. Quia aut et.\n \rAut est harum expedita temporibus voluptas est. Commodi ut voluptatum. Veritatis ut temporibus maiores. Error vitae alias ipsam tenetur sequi minima dolorem modi accusantium. Quos debitis corporis non optio a quia exercitationem repudiandae labore.\n \rEx fugiat sapiente dicta eaque et laborum. Magni omnis libero fugiat laudantium tempora doloremque ratione et et. Voluptatem beatae id. Id vero ut fugiat enim minus.",
+            "specifics": {
+                "display": 12.2,
+                "hdd": 128,
+                "ram": 2
+            }
+        },
+        {
+            "id": 44,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Unbranded Frozen Cheese",
+            "image": "/public/images/tablet.svg",
+            "price": "173.00",
+            "colors": [
+                "gold",
+                "black"
+            ],
+            "stock": 1,
+            "discount": "",
+            "description": "Repudiandae blanditiis sit pariatur aliquid inventore nostrum non ratione. At labore laboriosam. Eos dolorem sequi et. Eaque velit enim voluptatibus ut et repellat nulla.\n \rPlaceat et voluptatibus repudiandae perspiciatis aperiam nisi dolores autem accusantium. Quisquam amet sequi qui voluptatem. Vel reiciendis illo eos dolorem atque placeat. Vero maiores velit id sed ad modi sint. In aspernatur possimus ipsam in quibusdam est aliquam nostrum. Ab ea quia sed et qui quod hic totam.\n \rQuas et consequatur id. Itaque deleniti in omnis laborum. Iure id magni reiciendis dolores ducimus non nesciunt magni ducimus.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 128,
+                "ram": 8
+            }
+        },
+        {
+            "id": 45,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Incredible Steel Bacon",
+            "image": "/public/images/tablet.svg",
+            "price": "142.00",
+            "colors": [
+                "gold",
+                "black",
+                "gray"
+            ],
+            "stock": 8,
+            "discount": "",
+            "description": "Facilis facere qui odio unde velit rerum qui. Mollitia omnis atque delectus quibusdam dolorem aut voluptatem at. Ipsum quibusdam et magnam. Illo et fuga error dignissimos delectus. Voluptatem sed ipsum iste beatae accusamus qui. Eaque vero facere iste ut eos laboriosam placeat accusantium.\n \rAspernatur eum sequi beatae iste non libero nesciunt. Possimus aut et laudantium vel odit exercitationem eos eum recusandae. Saepe assumenda similique aut est id quod. Repellendus accusamus fugiat est. Ipsum libero et aliquid nulla ut tenetur saepe suscipit rerum.\n \rNon doloribus exercitationem ipsa. Aut non minima fugiat maiores harum maxime officia magnam. Est modi unde est atque accusantium ea. Natus ex enim nostrum voluptatem a deserunt voluptates sit.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 16,
+                "ram": 6
+            }
+        },
+        {
+            "id": 46,
+            "category": "Tablet",
+            "brand": "Brand2",
+            "name": "Refined Frozen Chair",
+            "image": "/public/images/tablet.svg",
+            "price": "71.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 8,
+            "discount": 13,
+            "description": "Aut sunt consequatur autem consequatur asperiores quaerat fugiat et. Optio consequuntur accusamus sapiente. Optio qui dolorem. Vitae earum quia fugiat. Dolorum sunt nisi adipisci qui.\n \rMinima eum aut eos reprehenderit et. Est provident nam et tempore maxime eaque. Laudantium amet qui enim eaque fugiat vitae et voluptate possimus.\n \rOmnis exercitationem accusamus architecto. Adipisci autem dicta repellendus voluptatibus aut. Reiciendis non ab mollitia. Saepe et aut veniam. Sed nam enim. Ea aut totam odio.",
+            "specifics": {
+                "display": 12.2,
+                "hdd": 64,
+                "ram": 4
+            }
+        },
+        {
+            "id": 47,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Refined Wooden Salad",
+            "image": "/public/images/tablet.svg",
+            "price": "883.00",
+            "colors": [
+                "gray",
+                "black"
+            ],
+            "stock": 10,
+            "discount": "",
+            "description": "Quo quam et. Nulla porro minus eaque corrupti mollitia quaerat dolorum error alias. Sequi eius molestiae similique eligendi dolore labore.\n \rEum hic earum corrupti voluptatibus blanditiis iste laboriosam unde iste. Voluptas nemo aut perferendis omnis consequatur. Neque et quis voluptates rem. Tenetur laudantium reprehenderit voluptas ad est neque. Sapiente corrupti nostrum sequi sapiente porro laboriosam et.\n \rDignissimos corporis ut sunt in. Est quos inventore. Rerum voluptates aut. Vitae dolorum aspernatur. Soluta quo dolorem qui excepturi.",
+            "specifics": {
+                "display": 10,
+                "hdd": 32,
+                "ram": 3
+            }
+        },
+        {
+            "id": 48,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Tasty Frozen Computer",
+            "image": "/public/images/tablet.svg",
+            "price": "354.00",
+            "colors": [
+                "gold",
+                "black",
+                "gray"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Veniam illum et sint error non qui. Delectus pariatur quaerat magni odit ipsam. Et quaerat sed omnis ipsam consequuntur fugit consequatur ea sit. Fugiat et id sequi id.\n \rUt consequatur enim maxime assumenda enim ipsum. Nostrum reprehenderit ea doloribus aut unde atque vero est. Rerum labore quod deserunt. Optio et enim tempora. Animi velit sit itaque. Autem libero dolorem voluptatem eos vitae incidunt.\n \rNulla eligendi veniam inventore vel vel vel voluptas reiciendis molestiae. Aperiam eveniet sit esse eaque molestias iste similique. Explicabo nemo nemo sit. Labore delectus molestiae repellat consectetur soluta omnis vel culpa. Voluptatem vel beatae blanditiis repellat eos doloremque voluptate. Necessitatibus asperiores eos ratione ut.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 128,
+                "ram": 8
+            }
+        },
+        {
+            "id": 49,
+            "category": "Tablet",
+            "brand": "Brand2",
+            "name": "Generic Plastic Towels",
+            "image": "/public/images/tablet.svg",
+            "price": "179.00",
+            "colors": [
+                "gray",
+                "black",
+                "gold"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "At tempore et nihil autem explicabo molestiae quia blanditiis. Aspernatur magnam saepe omnis ipsa aliquid. Ea nihil cum. Architecto unde eos laudantium quidem nostrum quis velit. Nulla molestiae quo expedita. Autem eveniet cupiditate et cum.\n \rInventore aut doloremque doloribus. Et rem aut. Natus et eos veritatis eum quo qui doloribus. Animi laudantium iure et nulla facilis.\n \rMinus iusto ut perspiciatis et quas omnis suscipit. Id et tenetur. Odit nisi dolore sed praesentium iste.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 8,
+                "ram": 2
+            }
+        },
+        {
+            "id": 50,
+            "category": "Tablet",
+            "brand": "Brand2",
+            "name": "Small Rubber Shirt",
+            "image": "/public/images/tablet.svg",
+            "price": "283.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 9,
+            "discount": "",
+            "description": "Optio autem nisi dicta est deserunt magnam corrupti. Aut velit consequatur quia. Est eveniet consequatur ut rem. Et quod sapiente facere itaque quae consequuntur aut sequi.\n \rEveniet a deserunt magnam accusantium. Voluptatibus nisi harum exercitationem numquam dolores. Ipsum voluptatem temporibus. Molestiae qui dolore inventore illo vero aut labore maxime. Eos minus voluptate dolore similique quo aut doloribus est.\n \rEos iure molestiae explicabo consequatur tempora doloremque incidunt. Itaque et tenetur dolore laborum commodi ut voluptatem. Et a unde nam culpa. Odio eos quam. Nihil aut ut quia velit similique aperiam. Sunt similique aperiam expedita exercitationem libero quis voluptatem.",
+            "specifics": {
+                "display": 12.2,
+                "hdd": 16,
+                "ram": 4
+            }
+        },
+        {
+            "id": 51,
+            "category": "Tablet",
+            "brand": "Brand2",
+            "name": "Licensed Steel Soap",
+            "image": "/public/images/tablet.svg",
+            "price": "448.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 6,
+            "discount": "",
+            "description": "Unde distinctio sit. Eum enim quo et cumque. Deleniti totam officia.\n \rId id quidem quaerat velit et dolor. Itaque sed veniam et. Voluptas deleniti distinctio non et assumenda sapiente voluptatibus. Et quas sit molestias voluptates aspernatur. Nesciunt consectetur tempore nobis eos.\n \rSit esse commodi enim sed. Et aliquam quo debitis et ea molestiae qui est aut. Eveniet neque consequatur ullam est necessitatibus. Error impedit provident provident quidem ratione tempora autem occaecati. Accusantium molestiae natus sequi impedit minima animi et.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 32,
+                "ram": 1
+            }
+        },
+        {
+            "id": 52,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Small Granite Table",
+            "image": "/public/images/tablet.svg",
+            "price": "345.00",
+            "colors": [
+                "black",
+                "gold",
+                "gray"
+            ],
+            "stock": 3,
+            "discount": "",
+            "description": "Sed beatae et. Fugiat necessitatibus eum dignissimos consequatur beatae voluptates. Totam ut rerum unde dolores occaecati aut. Ut quisquam enim. Tempore voluptatem commodi quae commodi in.\n \rOmnis tempore non deleniti dolorem aperiam vel. Et et omnis et autem. Consectetur sit inventore et voluptatem aperiam ipsam possimus veritatis.\n \rIure nisi saepe sed. Voluptatibus quae et laborum et aut et magnam ut. Consequuntur ipsum similique expedita accusantium inventore. Est quibusdam qui.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 64,
+                "ram": 6
+            }
+        },
+        {
+            "id": 53,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Handcrafted Cotton Tuna",
+            "image": "/public/images/tablet.svg",
+            "price": "886.00",
+            "colors": [
+                "gold"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Aut natus ab rem non nostrum quia et totam. Voluptates id consequatur. Autem vitae beatae aut. Praesentium adipisci qui repudiandae officia sed qui id exercitationem voluptas. Rerum deserunt et explicabo quia temporibus ut rerum. Exercitationem accusantium eligendi minus sunt.\n \rUllam aliquid quibusdam tenetur ex in rem. Esse ea omnis cupiditate. Dolores neque sapiente ut illo harum ut omnis. Non perspiciatis consectetur. In quasi sequi officia nostrum est odit aut reiciendis. Aut expedita laudantium dolore molestiae occaecati saepe deleniti eum.\n \rQuia officiis voluptatem quam eos praesentium maxime at. Fugit minima illum reprehenderit a eum. Sed quod modi natus odit harum. Animi vel consequatur explicabo.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 64,
+                "ram": 8
+            }
+        },
+        {
+            "id": 54,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Small Granite Cheese",
+            "image": "/public/images/tablet.svg",
+            "price": "981.00",
+            "colors": [
+                "gold",
+                "black"
+            ],
+            "stock": 1,
+            "discount": "",
+            "description": "Numquam deserunt temporibus in dicta. Neque ut illum sit quis est quas expedita. Asperiores laborum enim excepturi eveniet delectus accusantium. Et incidunt dignissimos. Et et qui voluptas nihil nihil reiciendis quae modi enim. Officia architecto voluptas explicabo soluta non mollitia.\n \rOdit magni repellat rerum totam laudantium. Veritatis ut aut ullam eius qui molestiae nam. Nesciunt quod enim totam sapiente eius doloribus praesentium et. Commodi sed iusto cum rerum explicabo eos sit quasi exercitationem.\n \rVitae et facilis quis consequatur voluptate omnis. Modi sit sed sapiente impedit et molestiae. Necessitatibus exercitationem alias maiores laudantium vel. Non nisi est. Nihil voluptatem beatae provident accusamus veniam. Esse aut aut velit eos qui eum odit totam.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 128,
+                "ram": 3
+            }
+        },
+        {
+            "id": 55,
+            "category": "Tablet",
+            "brand": "Brand2",
+            "name": "Unbranded Frozen Salad",
+            "image": "/public/images/tablet.svg",
+            "price": "463.00",
+            "colors": [
+                "gold",
+                "black",
+                "gray"
+            ],
+            "stock": 12,
+            "discount": 23,
+            "description": "Distinctio rerum architecto qui dolorum cumque corporis possimus doloribus expedita. Qui dignissimos illo. Qui distinctio praesentium similique asperiores magnam delectus dolores sint atque. Ut nobis rerum sint. Consectetur sapiente sint blanditiis labore et ex aut rerum odit.\n \rAspernatur necessitatibus quos quis. Molestias aperiam nemo. Veritatis cum qui sed et. Consequatur cumque tenetur sunt qui magnam aspernatur.\n \rQuo dicta delectus deleniti et neque alias debitis. Tenetur architecto perspiciatis nostrum vitae ut maxime excepturi. Soluta corporis provident corrupti repellendus minima ex dolorem vel soluta.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 16,
+                "ram": 3
+            }
+        },
+        {
+            "id": 56,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Unbranded Cotton Mouse",
+            "image": "/public/images/tablet.svg",
+            "price": "70.00",
+            "colors": [
+                "gray",
+                "black",
+                "gold"
+            ],
+            "stock": 11,
+            "discount": "",
+            "description": "Voluptas ut quo labore sapiente molestias id. Dolorem vel quia quia enim nihil ex ipsum vitae. Aperiam pariatur ratione qui impedit accusamus aut magni nulla et. Vero iste commodi sed.\n \rOccaecati architecto eaque nihil dignissimos nesciunt sint. Amet ut qui. Nobis odio error tenetur voluptate autem omnis ratione exercitationem explicabo. Nulla ducimus ut ducimus. Laboriosam ad distinctio et maiores nihil.\n \rDolor deleniti suscipit error. Quis quod velit quod expedita earum distinctio. Officiis quia ab recusandae voluptas autem aspernatur dolores est. Quibusdam labore rem occaecati.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 8,
+                "ram": 8
+            }
+        },
+        {
+            "id": 57,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Sleek Plastic Chips",
+            "image": "/public/images/tablet.svg",
+            "price": "80.00",
+            "colors": [
+                "gold"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Itaque iste consequatur sequi qui vero amet eveniet veniam. Aut laboriosam quis. Voluptatem sit consequatur similique temporibus autem autem.\n \rMolestiae voluptatem eveniet aut consequatur molestiae. Sequi rem ex. Consequatur eius rerum. Eaque incidunt ut. Harum assumenda eos explicabo ex sint. Asperiores quia amet consectetur rerum.\n \rBeatae veniam ex exercitationem ratione illo esse non. Alias atque harum repudiandae. Facilis possimus quibusdam ut voluptatem dolore inventore vel omnis. Officia aperiam numquam quasi in aperiam aut sed ut consequatur. Quo in nostrum dolores sunt nemo hic eos dolorem.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 32,
+                "ram": 8
+            }
+        },
+        {
+            "id": 58,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Awesome Concrete Pants",
+            "image": "/public/images/tablet.svg",
+            "price": "842.00",
+            "colors": [
+                "gray",
+                "black",
+                "gold"
+            ],
+            "stock": 6,
+            "discount": 10,
+            "description": "Voluptas perferendis ut porro quia. Beatae omnis maiores enim quia. Unde debitis est. Aut ab quidem quia eveniet fugit sed esse.\n \rId similique enim. Quia porro ut ut totam. Neque non consectetur atque qui. Non ipsum commodi rerum earum qui qui minima quos et. Aut reiciendis sint provident mollitia excepturi. At voluptas rerum.\n \rSint autem quo velit tempore distinctio. Veniam autem recusandae beatae totam quasi aliquam rerum ipsum iusto. Consequatur occaecati sed quis quo tenetur eius suscipit in. Qui est est maxime laborum nam et. Voluptas accusantium numquam esse. Aliquid sed dolor ducimus repellendus in similique.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 16,
+                "ram": 4
+            }
+        },
+        {
+            "id": 59,
+            "category": "Tablet",
+            "brand": "Brand2",
+            "name": "Generic Rubber Car",
+            "image": "/public/images/tablet.svg",
+            "price": "871.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Voluptas non modi non alias voluptatem natus vitae magni est. Quos neque dolorum id tenetur possimus dignissimos. Possimus enim aut voluptas reiciendis quia repudiandae rerum dolorem vitae. Perspiciatis nesciunt qui reprehenderit similique deleniti. Et error dolorem et aut ipsam blanditiis at magnam.\n \rNam earum quo delectus quo repellat. Maiores ut possimus itaque sequi necessitatibus omnis explicabo vitae et. Ad provident pariatur pariatur aut eveniet non. Labore minima mollitia ad.\n \rTempore culpa totam qui officia dolore et voluptas commodi. Aut enim aliquid nam similique. Enim praesentium eum et illum aliquid dicta quia.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 16,
+                "ram": 4
+            }
+        },
+        {
+            "id": 60,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Generic Frozen Gloves",
+            "image": "/public/images/tablet.svg",
+            "price": "608.00",
+            "colors": [
+                "black",
+                "gold"
+            ],
+            "stock": 8,
+            "discount": "",
+            "description": "Unde impedit dolores ut delectus voluptatem sequi. Aut nisi quae minus. Qui architecto sequi esse velit. Atque illum tenetur est magni eos. In quo perferendis itaque illo quam eveniet nam aliquam.\n \rQuia rerum rem ut ea. Eos qui aut quo ea illo sed et optio inventore. Et ullam et quia inventore labore. Dignissimos enim vitae veritatis laboriosam praesentium repudiandae quo praesentium reprehenderit. Labore voluptas sunt et maxime minus incidunt. Laborum mollitia voluptas fugiat repellat est aut porro.\n \rOmnis sed veniam excepturi hic nesciunt nobis. Voluptate ipsum aut beatae repudiandae dolor. Voluptates qui ullam et accusamus. Ducimus modi nulla earum natus expedita corrupti quod libero libero. Odit laborum sit accusamus temporibus vero.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 16,
+                "ram": 2
+            }
+        },
+        {
+            "id": 61,
+            "category": "Tablet",
+            "brand": "Brand2",
+            "name": "Incredible Steel Chips",
+            "image": "/public/images/tablet.svg",
+            "price": "747.00",
+            "colors": [
+                "gold"
+            ],
+            "stock": 6,
+            "discount": "",
+            "description": "Ex quaerat amet ut eligendi repudiandae nihil eaque aperiam. Laboriosam vero tempore corporis. Aut cupiditate enim sequi quae eum enim aut. Officia voluptatem perferendis vero vero est pariatur quo. Nam eos veniam alias ut.\n \rEos commodi nisi dolores dicta consequatur pariatur soluta id. Aperiam nemo non veniam tempore. Voluptas beatae velit deserunt dolores magni aperiam facere ea totam.\n \rConsectetur sequi libero aut autem ut libero eos. Dolor quibusdam eos exercitationem laborum eos vel et sed. Quaerat voluptate cum. Quod quia et rerum. Facilis consectetur nihil. Sint sequi facere eveniet aperiam aut quae et sit et.",
+            "specifics": {
+                "display": 10,
+                "hdd": 16,
+                "ram": 6
+            }
+        },
+        {
+            "id": 62,
+            "category": "Tablet",
+            "brand": "Brand2",
+            "name": "Handmade Plastic Sausages",
+            "image": "/public/images/tablet.svg",
+            "price": "125.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 9,
+            "discount": "",
+            "description": "Velit aut rerum eum voluptates. Nostrum unde nulla. Dolor ut modi fuga odit et rerum. Exercitationem provident repudiandae et cumque eum id qui corrupti. Quod aut laboriosam laboriosam.\n \rAtque voluptatem sequi voluptatum sed libero voluptatum consequatur vel. Sequi mollitia incidunt eveniet eos veniam tenetur recusandae at illo. Aliquid officiis similique ipsam voluptatem quia ut.\n \rCum corrupti voluptatem eum aut. Quis voluptatem et eius sunt. Deleniti quis aut beatae rem voluptatem. Tempora rerum cum est perferendis tempora sed adipisci.",
+            "specifics": {
+                "display": 10,
+                "hdd": 32,
+                "ram": 4
+            }
+        },
+        {
+            "id": 63,
+            "category": "Tablet",
+            "brand": "Brand2",
+            "name": "Licensed Frozen Bike",
+            "image": "/public/images/tablet.svg",
+            "price": "2.00",
+            "colors": [
+                "gray",
+                "black"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "Itaque qui illo. Laudantium voluptatem est quia alias mollitia. Hic similique repellendus enim.\n \rRepellendus placeat voluptatem qui et laborum voluptatem. Commodi tempore provident error ducimus blanditiis ea. Sit beatae vel voluptatum et fuga optio nulla commodi. Qui consequatur sit animi qui. Suscipit deleniti aut nam voluptas vitae delectus et fuga. Est id quo ipsam explicabo et.\n \rQuam itaque recusandae repellendus ab eum quo. Reiciendis quas dignissimos iure nihil quod quae rerum consequatur repudiandae. Magni in et exercitationem quia dolore.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 16,
+                "ram": 3
+            }
+        },
+        {
+            "id": 64,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Tasty Wooden Table",
+            "image": "/public/images/tablet.svg",
+            "price": "200.00",
+            "colors": [
+                "gray",
+                "black"
+            ],
+            "stock": 2,
+            "discount": "",
+            "description": "Natus autem non quo. Sed sunt velit dolorem. Sed saepe eaque adipisci aut et.\n \rHic impedit possimus et laudantium ut repellendus. Velit amet aut explicabo et minima. Doloremque corporis aut molestiae.\n \rVelit laboriosam magnam molestias placeat repellat ea. Quae non ex eaque ut quo vitae qui. Voluptatem aliquam eos qui molestiae quod possimus possimus qui et.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 32,
+                "ram": 4
+            }
+        },
+        {
+            "id": 65,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Intelligent Wooden Gloves",
+            "image": "/public/images/tablet.svg",
+            "price": "966.00",
+            "colors": [
+                "gold",
+                "black"
+            ],
+            "stock": 8,
+            "discount": 2,
+            "description": "Voluptates fugiat ut voluptas est ipsa quia provident officia. Id sit sequi eveniet. Aliquid in sapiente eos sit at non autem sapiente doloribus. Sapiente molestiae eveniet itaque veritatis architecto qui nostrum ullam quis. Eos sapiente veniam. Et harum consequatur illum.\n \rEst totam tenetur. Aut quia ad qui doloremque omnis sunt voluptates. Quasi quasi suscipit et consequuntur voluptatibus libero beatae sunt. Omnis laudantium eligendi et ut eum qui est. Id laborum aut. Modi sequi sapiente nihil ex modi et eos fugit non.\n \rPerspiciatis molestiae nostrum quis et laborum ut expedita unde necessitatibus. Voluptatem suscipit eum dolores. Natus tempora rerum non sint. Doloremque rerum repellendus. Doloremque ut quidem facere iure. Error rerum eum corrupti inventore vel deserunt cumque eligendi modi.",
+            "specifics": {
+                "display": 10,
+                "hdd": 64,
+                "ram": 3
+            }
+        },
+        {
+            "id": 66,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Fantastic Metal Keyboard",
+            "image": "/public/images/tablet.svg",
+            "price": "842.00",
+            "colors": [
+                "gold",
+                "black",
+                "gray"
+            ],
+            "stock": 2,
+            "discount": 11,
+            "description": "Tenetur iure dolores et eum. Voluptatum et unde recusandae. Magnam dignissimos sunt sed odio temporibus iure.\n \rLibero autem at corrupti necessitatibus sed natus expedita quis fugit. Qui iusto itaque eos. Dolorem laudantium velit distinctio. Alias praesentium et similique molestiae quia.\n \rAspernatur reiciendis autem laboriosam et dolore voluptatem doloremque. Voluptate adipisci consectetur cum dolores tenetur. Dolor eveniet placeat et. Porro debitis omnis dolor quo optio id qui quia. Dolorum alias est libero porro dignissimos libero eius. Nihil eveniet consectetur vel ducimus mollitia quia iure a deleniti.",
+            "specifics": {
+                "display": 10,
+                "hdd": 32,
+                "ram": 1
+            }
+        },
+        {
+            "id": 67,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Gorgeous Fresh Chicken",
+            "image": "/public/images/tablet.svg",
+            "price": "343.00",
+            "colors": [
+                "gold",
+                "black",
+                "gray"
+            ],
+            "stock": 10,
+            "discount": "",
+            "description": "Incidunt perferendis et. Iste id est totam possimus rem nihil. Omnis molestias dolorem. Ipsam dolorem officiis.\n \rDignissimos nam omnis voluptatum. Dignissimos temporibus voluptas non voluptatum id voluptate. Tempore eaque doloremque sunt debitis occaecati officia nostrum quo.\n \rEum quam aspernatur dolorum. Eum tenetur impedit doloremque ut. Est maiores dolorum eum numquam similique iste velit voluptas. Praesentium sit libero.",
+            "specifics": {
+                "display": 10,
+                "hdd": 128,
+                "ram": 6
+            }
+        },
+        {
+            "id": 68,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Ergonomic Cotton Shirt",
+            "image": "/public/images/tablet.svg",
+            "price": "267.00",
+            "colors": [
+                "gray",
+                "black",
+                "gold"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "Unde cumque officiis molestiae est quasi. Et magni inventore incidunt architecto est. Beatae optio et.\n \rAlias molestiae magni totam ratione ut ratione nulla. Repellat atque dolorum. Nihil eligendi occaecati et non. Saepe dolorem ut autem libero facere odio. Libero et dolores. Veritatis reprehenderit sed impedit repellat dolores qui dolor.\n \rQui eos occaecati suscipit vitae voluptas. Unde nihil sit eaque possimus ut. Aspernatur quam sapiente cumque dolor rem nostrum sunt. Id magni qui aut quos odio eius voluptas natus exercitationem. Est quis magni nihil veritatis minima.",
+            "specifics": {
+                "display": 12.2,
+                "hdd": 32,
+                "ram": 2
+            }
+        },
+        {
+            "id": 69,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Sleek Fresh Keyboard",
+            "image": "/public/images/tablet.svg",
+            "price": "810.00",
+            "colors": [
+                "gray",
+                "black"
+            ],
+            "stock": 6,
+            "discount": 17,
+            "description": "Fugiat omnis id consequatur assumenda. Nemo rerum saepe voluptas. Impedit ratione repellendus sint eaque quos. Et et minus iste. Dolor aut atque blanditiis sint ut voluptatibus.\n \rQuia eligendi eos nemo a accusantium accusamus voluptas sit. Eos rerum fuga unde ullam dolor. Ipsam unde laboriosam molestiae tempore eos quaerat rerum. Doloremque sit deleniti iusto. Incidunt delectus earum autem. Vero labore perferendis.\n \rQuia earum laborum ipsa nesciunt maiores aut ut eveniet. Voluptas esse cupiditate in sit dolorem laudantium quo voluptatem consectetur. Illo omnis cupiditate sint hic.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 128,
+                "ram": 2
+            }
+        },
+        {
+            "id": 70,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Handcrafted Fresh Sausages",
+            "image": "/public/images/tablet.svg",
+            "price": "840.00",
+            "colors": [
+                "gold"
+            ],
+            "stock": 11,
+            "discount": "",
+            "description": "Ipsa culpa vel. Earum possimus reiciendis nobis fuga. Facilis eius qui expedita. Dignissimos dignissimos aliquid facere iure eos. Voluptatem ut et iste repudiandae accusamus.\n \rEarum aliquid id eos. Sed animi quis. Quam eius vel laboriosam aut. Numquam explicabo et vel qui ab voluptatem voluptatem repellendus est. Vitae eum fugiat. Ipsum et fuga.\n \rQuas quo quam reiciendis quam. Impedit ipsum quae animi quibusdam iusto expedita et non. Blanditiis maiores voluptas dolores nobis minima facere cum nam. Quia voluptas veniam odit quidem. Nihil consequatur id cum odit pariatur id blanditiis laborum. Qui autem ex libero expedita perferendis ut quod ut ipsa.",
+            "specifics": {
+                "display": 12.2,
+                "hdd": 8,
+                "ram": 6
+            }
+        },
+        {
+            "id": 71,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Ergonomic Soft Mouse",
+            "image": "/public/images/tablet.svg",
+            "price": "678.00",
+            "colors": [
+                "gold"
+            ],
+            "stock": 1,
+            "discount": "",
+            "description": "Voluptate qui eos. Ipsa in nobis cumque odit aut qui. Et id sit molestiae qui. Commodi nam commodi aliquam atque nulla tempore porro tempora voluptatem. Voluptatem qui at sint qui mollitia consequatur eius corporis ratione. Dolores perspiciatis laudantium voluptatibus quam.\n \rRepudiandae assumenda reiciendis atque. Odit corrupti laborum. Quis ab aliquid quia voluptatem et est et. Possimus expedita iusto nisi voluptates qui laboriosam. Aut quia consequatur dolor sint laboriosam ullam qui. Et velit harum.\n \rRerum dignissimos eos ea tempore eum mollitia. Qui nihil maiores a repellat iure omnis. Earum impedit ex. Est quia et. Ab laborum earum aut quia sunt. Vitae eos eum delectus excepturi tempore porro sunt.",
+            "specifics": {
+                "display": 10,
+                "hdd": 32,
+                "ram": 4
+            }
+        },
+        {
+            "id": 72,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Fantastic Metal Table",
+            "image": "/public/images/tablet.svg",
+            "price": "862.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 8,
+            "discount": "",
+            "description": "Ut quibusdam porro asperiores magni eaque iste aut. Et maxime quos atque sit fugiat sint nihil quaerat error. Non incidunt ut odit dolorem odio asperiores. Molestias et ducimus commodi ducimus saepe nisi ipsa illo est.\n \rNesciunt mollitia aut a dolore et consectetur nam. Omnis mollitia qui et. Aut consequuntur hic quae provident rerum. Non sunt nobis quis labore maiores.\n \rEos deserunt excepturi veritatis repellendus eum nihil iste provident. Eum est voluptate temporibus omnis praesentium iure excepturi. Ea sed natus eum laboriosam facilis eos autem qui dolorem.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 8,
+                "ram": 6
+            }
+        },
+        {
+            "id": 73,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Gorgeous Metal Cheese",
+            "image": "/public/images/tablet.svg",
+            "price": "611.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 9,
+            "discount": "",
+            "description": "Ratione quisquam dolores quam dolorem possimus placeat quia assumenda corporis. Facilis voluptates voluptatibus consequuntur sed quo quis aliquam. Ducimus cupiditate quas sapiente voluptatem delectus ut occaecati. Fugit illo expedita amet.\n \rRepudiandae et et sed at voluptatem ipsa. Esse magnam fugiat ut harum provident est aliquam. Tenetur nihil voluptas. Sed cupiditate voluptatibus modi est perspiciatis unde. Reprehenderit earum fugiat.\n \rIpsum a sunt deserunt esse deserunt impedit eveniet. Vel dignissimos nostrum. Voluptas ut fuga adipisci ea rerum sunt. Tempora molestias labore ut quia quia voluptas. At autem ea cum enim.",
+            "specifics": {
+                "display": 10,
+                "hdd": 64,
+                "ram": 3
+            }
+        },
+        {
+            "id": 74,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Awesome Plastic Pants",
+            "image": "/public/images/tablet.svg",
+            "price": "413.00",
+            "colors": [
+                "gray",
+                "gold"
+            ],
+            "stock": 5,
+            "discount": "",
+            "description": "Cumque magnam enim. Sunt optio ipsam omnis omnis repellat excepturi dicta ipsum quia. Iure ipsum quod.\n \rVoluptas quia et commodi nulla cumque illum molestias. Adipisci blanditiis ad voluptas error asperiores dolorem provident. Aut in illo eos ab reprehenderit.\n \rEt aut sint repellat esse hic eum et ut. Temporibus delectus tempora dolorem eius et sed cupiditate minima rerum. Sit labore commodi quia suscipit.",
+            "specifics": {
+                "display": 12.2,
+                "hdd": 32,
+                "ram": 1
+            }
+        },
+        {
+            "id": 75,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Practical Metal Chicken",
+            "image": "/public/images/tablet.svg",
+            "price": "750.00",
+            "colors": [
+                "gold",
+                "gray"
+            ],
+            "stock": 2,
+            "discount": 9,
+            "description": "Vel est eum velit sunt. Qui sed suscipit nihil magnam qui. Et id distinctio. Provident occaecati dolore rerum nam facilis itaque.\n \rVel distinctio et nobis enim aut voluptas ipsum alias assumenda. Reprehenderit omnis minus id est in illum sit ea. Eos ea reprehenderit velit corporis. Sequi voluptas quia laboriosam sunt illo officia.\n \rQui ut quis maiores doloribus eos deserunt adipisci accusantium. Temporibus ducimus tempora corrupti et. Tempora ut atque ducimus. Soluta architecto atque repellat est dolores possimus corporis odio. Ipsa eos sit. Labore temporibus necessitatibus explicabo qui.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 8,
+                "ram": 8
+            }
+        },
+        {
+            "id": 76,
+            "category": "Tablet",
+            "brand": "Brand2",
+            "name": "Handmade Frozen Keyboard",
+            "image": "/public/images/tablet.svg",
+            "price": "797.00",
+            "colors": [
+                "gray",
+                "gold",
+                "black"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Aliquid voluptatibus molestias. Aut molestias voluptates asperiores nemo. Unde perspiciatis qui.\n \rTempora ut sint voluptatem ad voluptatem quae. Repellat laborum amet dolore iusto ut minima in et. Ea harum voluptates odio voluptas saepe necessitatibus non cupiditate. A expedita dolore repellat accusamus delectus doloremque. Nam aut sapiente possimus aperiam dolore iste occaecati. Et eligendi sint et vel distinctio corrupti consequatur eos vel.\n \rExcepturi cupiditate consequatur quidem. Sequi ut enim tempora magnam quo animi nihil. Aliquid voluptas recusandae tempore quis quos. Minima dicta facere et voluptates unde quo occaecati.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 8,
+                "ram": 4
+            }
+        },
+        {
+            "id": 77,
+            "category": "Tablet",
+            "brand": "Brand1",
+            "name": "Generic Metal Tuna",
+            "image": "/public/images/tablet.svg",
+            "price": "129.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Iste possimus voluptatum. Ex adipisci modi est. Repellat quisquam voluptas. Reprehenderit eos repellat qui nesciunt. Nemo ratione enim laboriosam voluptatum velit.\n \rRerum inventore sunt. Iusto aut culpa nulla. Vitae distinctio qui quidem voluptas eum ab omnis nemo. Sed molestiae vitae. Omnis animi quo minima eligendi dolorem enim.\n \rNon ut nemo qui facilis autem rerum eveniet. Accusantium dolorum occaecati in porro quibusdam. Officiis ullam at.",
+            "specifics": {
+                "display": 11.6,
+                "hdd": 32,
+                "ram": 3
+            }
+        },
+        {
+            "id": 78,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Generic Plastic Sausages",
+            "image": "/public/images/tablet.svg",
+            "price": "686.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 1,
+            "discount": "",
+            "description": "Ea dignissimos sint reiciendis perferendis cumque dolore quae distinctio. Quo sunt impedit praesentium molestiae repellendus id aut sed. Totam sequi quis asperiores nihil voluptas. Et expedita qui ut. Ab et ullam aliquid veritatis voluptatem.\n \rRepudiandae eos nemo possimus amet. Pariatur ut quo rerum harum. Fugit dolor sapiente quidem quisquam. Architecto id nobis animi modi sequi rerum qui. Cum dolorem accusantium exercitationem repellat in nisi.\n \rOptio eos earum nihil ut eum adipisci ut non. Debitis expedita cupiditate et eos aut dicta ut illo. Quis ut laborum.",
+            "specifics": {
+                "display": 10,
+                "hdd": 64,
+                "ram": 3
+            }
+        },
+        {
+            "id": 79,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Small Steel Chips",
+            "image": "/public/images/tablet.svg",
+            "price": "875.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 3,
+            "discount": 3,
+            "description": "Blanditiis vel sunt laboriosam cupiditate in. Veniam odit sint deleniti sint occaecati quis exercitationem. Quae sit aut ipsam quas.\n \rQuas ab magni recusandae rem. Quod molestiae dolorem placeat quisquam inventore neque laborum. Nesciunt explicabo beatae aut odit dolorem odit. Ex incidunt ut et eos sapiente.\n \rSaepe blanditiis sed quasi omnis saepe voluptas dolorem blanditiis dolor. Nam debitis amet commodi ducimus. Expedita harum molestiae iusto architecto. Soluta unde quo. Aut exercitationem voluptatem tempore.",
+            "specifics": {
+                "display": 12.2,
+                "hdd": 32,
+                "ram": 3
+            }
+        },
+        {
+            "id": 80,
+            "category": "Tablet",
+            "brand": "Brand3",
+            "name": "Licensed Soft Pants",
+            "image": "/public/images/tablet.svg",
+            "price": "466.00",
+            "colors": [
+                "gold"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "Quis sed commodi nisi consequatur vel officiis deleniti pariatur quo. Inventore eum est labore facere et illo doloremque dolor. Et unde repellendus et commodi vel eos ratione non. Non unde magni magni voluptas omnis inventore eligendi et. Est voluptas reprehenderit ipsam molestiae quae quae qui. Ut quis ipsum exercitationem doloribus aut modi sed rerum.\n \rTenetur minima facere quia vero vitae sapiente vel. Veritatis cum et repellendus voluptate cupiditate. Mollitia id dolorem nobis reprehenderit labore quaerat aspernatur. Dolores expedita sint consequatur qui qui minima qui dolores. Doloremque dignissimos est magnam dolorem accusantium quas qui.\n \rOdit esse quia eveniet minus a. Iure quo architecto et officia est dolor pariatur quae. Voluptates voluptatibus dolore qui itaque consequuntur eum voluptatem. Animi aut consequatur aut in laborum. Tempore tempora cumque perferendis cumque vitae accusamus.",
+            "specifics": {
+                "display": 9.7,
+                "hdd": 16,
+                "ram": 8
+            }
+        },
+        {
+            "id": 81,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Ergonomic Plastic Cheese",
+            "image": "/public/images/smartphone.svg",
+            "price": "914.00",
+            "colors": [
+                "gold"
+            ],
+            "stock": 9,
+            "discount": "",
+            "description": "Ut id nihil sed nihil blanditiis sed quam. Mollitia debitis corporis itaque molestiae doloribus provident atque. Dolores illo qui quasi architecto et voluptatem quia accusamus. Ullam distinctio maiores adipisci placeat minus. Ea ratione consectetur ipsa quasi. Voluptatem qui pariatur quia quidem maiores quibusdam sint velit.\n \rCum in quae et quam rerum voluptate quae. Ex est voluptas eos eaque aliquid nihil cumque omnis ipsum. Consequatur reprehenderit commodi. Dolores accusamus placeat perspiciatis autem labore nobis vel velit. Laudantium et sit. Aliquam quis aperiam et autem nulla distinctio ut beatae.\n \rLibero expedita veniam et rem natus ut blanditiis. Provident veritatis optio praesentium labore atque facere et eaque. Adipisci in praesentium doloremque ut voluptatum dignissimos. Ullam hic asperiores recusandae omnis molestiae id et ad ea.",
+            "specifics": {
+                "display": 5.5,
+                "hdd": 4,
+                "ram": 4
+            }
+        },
+        {
+            "id": 82,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Handmade Frozen Towels",
+            "image": "/public/images/smartphone.svg",
+            "price": "417.00",
+            "colors": [
+                "gold",
+                "black",
+                "gray"
+            ],
+            "stock": 2,
+            "discount": "",
+            "description": "Saepe aliquam doloremque repellat cupiditate nam non ipsum. Minus est voluptate enim est sapiente tempore aspernatur. Iste omnis aut deleniti nihil eum. Qui sed vel dolores dolorem quidem dolorem incidunt. Consequatur quisquam aperiam consectetur.\n \rQuia amet doloremque vero quis deserunt quaerat animi commodi a. Voluptas mollitia aperiam quo molestias dolorum. Debitis maiores fuga voluptatum nesciunt consequatur sequi quibusdam reiciendis dolorem.\n \rVel qui accusantium dolores vero sit consequatur delectus. Dolor similique autem qui. Doloribus repudiandae cumque fugiat sint totam iure sint quo. Accusamus distinctio ut laudantium quod.",
+            "specifics": {
+                "display": 7,
+                "hdd": 8,
+                "ram": 6
+            }
+        },
+        {
+            "id": 83,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Practical Concrete Towels",
+            "image": "/public/images/smartphone.svg",
+            "price": "631.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 10,
+            "discount": "",
+            "description": "Quis quia facere unde ut velit rem quibusdam laboriosam asperiores. Explicabo repellendus odio. Distinctio ut qui hic eaque. Omnis ducimus molestias cumque magnam.\n \rNon quo corporis aut dignissimos quam. Itaque aut officia illo nemo atque quas odit quam. Dolorem nihil nihil nemo iste.\n \rRem aspernatur eaque consequatur. Quae vitae repellendus laborum totam. Architecto laudantium dicta est reprehenderit ut nisi ut qui occaecati. Sed consequuntur occaecati.",
+            "specifics": {
+                "display": 6,
+                "hdd": 16,
+                "ram": 4
+            }
+        },
+        {
+            "id": 84,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Fantastic Granite Hat",
+            "image": "/public/images/smartphone.svg",
+            "price": "737.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 10,
+            "discount": "",
+            "description": "Dolores dolorum id quia facilis deleniti accusamus fugiat. Eos et vero. Deserunt laudantium voluptas modi veritatis atque magnam dolore vitae consectetur. Iusto eius veritatis eos cupiditate voluptatem commodi. Inventore sapiente dolorem debitis rerum. Quisquam esse itaque sed fugiat nisi.\n \rIllum a eligendi et veniam consequatur. Consequatur aut nobis totam dolore ad pariatur occaecati eius non. Facere enim rem in accusantium quos et deserunt. Aliquid soluta ex voluptatibus consequatur doloribus corporis expedita aut cupiditate. Qui aut laborum nihil. Tenetur in aut architecto repellat exercitationem ea.\n \rConsequatur optio repellendus nihil sint magni. Provident voluptas modi. Rerum ipsum odio et. Et aut praesentium consequatur natus non aut ut quaerat et. Dolor unde aliquid velit nobis sint ea possimus aut.",
+            "specifics": {
+                "display": 7,
+                "hdd": 8,
+                "ram": 3
+            }
+        },
+        {
+            "id": 85,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Small Frozen Bike",
+            "image": "/public/images/smartphone.svg",
+            "price": "413.00",
+            "colors": [
+                "black",
+                "gold",
+                "gray"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Dicta quia quae. Ut error quia quia adipisci dolores perferendis cupiditate omnis molestiae. Iusto qui ab sit ducimus tempore alias voluptatem. Eos blanditiis ipsa enim fugiat.\n \rSit a veniam omnis et deserunt quo cupiditate. Expedita rem est minima occaecati et quaerat occaecati ipsa voluptates. Assumenda omnis porro dolor velit. Cum veniam voluptate beatae ut ut natus odio. Aspernatur qui totam vitae possimus ipsum exercitationem.\n \rNemo perferendis illum aliquid explicabo nulla. Fuga earum qui iure neque. Modi rem ea veritatis aut eveniet optio perspiciatis voluptatem architecto.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 8,
+                "ram": 4
+            }
+        },
+        {
+            "id": 86,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Tasty Soft Car",
+            "image": "/public/images/smartphone.svg",
+            "price": "416.00",
+            "colors": [
+                "gold",
+                "black"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "Qui maiores magni animi consequatur qui sequi dolorum sint. Dolor similique commodi veniam aut cupiditate quia ipsam. Doloremque exercitationem accusantium fuga molestias. Ipsam dolorum natus et ea amet. Nisi rem atque vero consequatur. Vel qui doloremque libero doloribus sed.\n \rTempora odit porro cum debitis et. Quia ducimus sint quis. Quia inventore nam placeat qui.\n \rEt et et iste minus qui velit. Et inventore perferendis quibusdam quia optio iusto accusamus. Consequuntur tenetur aliquid vero.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 16,
+                "ram": 1
+            }
+        },
+        {
+            "id": 87,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Handcrafted Wooden Cheese",
+            "image": "/public/images/smartphone.svg",
+            "price": "489.00",
+            "colors": [
+                "gray",
+                "black",
+                "gold"
+            ],
+            "stock": 12,
+            "discount": "",
+            "description": "Ut ut ipsam enim ipsam qui explicabo molestias. Praesentium velit quaerat sed aut in vel odio. Voluptatibus aut qui ut autem ut earum aut. Expedita eum dignissimos ut. Non voluptatibus qui iure nulla debitis pariatur quasi. Molestias esse possimus dolor doloribus maxime ipsa nulla necessitatibus laboriosam.\n \rVoluptas dolorem pariatur similique laboriosam consequatur quia nam. Sequi consequatur mollitia reiciendis sed totam non. Est iure possimus possimus quis velit perspiciatis sint quae. Dicta sed voluptate ut unde reiciendis repellendus perferendis cum. Dolorum unde sint incidunt minima. Sed vel exercitationem qui officia dignissimos voluptas unde odio commodi.\n \rDeleniti soluta aut est voluptates dolores cum voluptas recusandae. At iste blanditiis non sit. Quidem veritatis ut temporibus veniam reiciendis. Natus animi accusantium aut id rerum. Nihil quis et occaecati id quae aperiam quas officiis ut. Pariatur et illo ut ut.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 4,
+                "ram": 1
+            }
+        },
+        {
+            "id": 88,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Small Plastic Chips",
+            "image": "/public/images/smartphone.svg",
+            "price": "362.00",
+            "colors": [
+                "gray",
+                "black"
+            ],
+            "stock": 5,
+            "discount": 25,
+            "description": "Fuga laboriosam voluptatem. Qui deserunt saepe cum ad error doloremque laudantium dicta deleniti. Ducimus dolores aliquam vel qui porro. Fugiat qui quia molestias doloribus harum aliquid.\n \rBeatae vero voluptatibus dolores debitis non dolorum sequi ratione quaerat. Quibusdam illo laborum et nostrum exercitationem recusandae et voluptatem. Blanditiis minima sit non aliquam corporis aut numquam eos quo. Illo et quo maxime omnis eos dolores ut aut. Quisquam dolores nobis voluptas occaecati voluptatum qui mollitia ut neque.\n \rQuo occaecati nobis qui inventore non neque. Enim repudiandae doloremque itaque voluptatem unde ducimus voluptatem. Praesentium at odit sequi doloremque unde iure commodi reprehenderit. Earum aut cumque aut. Molestias non illo at officia ipsa ipsam eos. Tenetur esse et consequatur blanditiis placeat labore nihil dignissimos non.",
+            "specifics": {
+                "display": 6,
+                "hdd": 4,
+                "ram": 3
+            }
+        },
+        {
+            "id": 89,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Incredible Steel Chair",
+            "image": "/public/images/smartphone.svg",
+            "price": "839.00",
+            "colors": [
+                "black",
+                "gray"
+            ],
+            "stock": 1,
+            "discount": "",
+            "description": "Sit consequatur fugiat. Dolor earum laboriosam quasi aut tempore qui. Eaque nihil suscipit delectus quo perferendis vel dicta ut veniam. Quisquam nam doloribus. Blanditiis dolores quod. Ratione corporis nisi debitis non ut magnam autem.\n \rEt eos ex placeat rerum. Quia velit maxime vero. Facere commodi nihil nihil ipsa.\n \rEt quis impedit tenetur fugiat. Consequatur sint corporis assumenda. At voluptas qui id corporis quibusdam dignissimos ab. Consequatur facere nemo omnis facere omnis et. Omnis veniam sit est sint sed perferendis consequatur.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 4,
+                "ram": 3
+            }
+        },
+        {
+            "id": 90,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Small Metal Pants",
+            "image": "/public/images/smartphone.svg",
+            "price": "543.00",
+            "colors": [
+                "gold",
+                "gray"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Distinctio omnis quia incidunt quisquam aut accusamus. Rem quibusdam temporibus modi consequuntur et. Animi ab eius earum consequatur.\n \rQuam fugiat ratione quasi nulla. Qui minima suscipit iste laboriosam. Et possimus impedit facilis sunt natus necessitatibus enim. Harum omnis qui et quos odit enim. Ut rerum asperiores eum. Quam hic hic quidem quod eius quod.\n \rFuga voluptate ullam architecto ipsum cumque. Provident dolores sit voluptatem quia praesentium veritatis. Eligendi nam voluptatem placeat quia repudiandae ratione rerum natus. Magnam aut debitis laudantium veniam qui et rerum.",
+            "specifics": {
+                "display": 7,
+                "hdd": 8,
+                "ram": 3
+            }
+        },
+        {
+            "id": 91,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Practical Concrete Shirt",
+            "image": "/public/images/smartphone.svg",
+            "price": "58.00",
+            "colors": [
+                "gold",
+                "black",
+                "gray"
+            ],
+            "stock": 11,
+            "discount": "",
+            "description": "Quisquam ipsam molestiae pariatur illum animi magnam rem magni. Odit quas cum. Rerum qui nemo autem ipsam assumenda neque eum ipsa corporis.\n \rImpedit cumque maxime est. Ipsum ad magni. Sed qui nobis aut dicta qui minima. Ex voluptatem dolore mollitia perferendis hic sed suscipit. Quis dolores quia distinctio maxime officiis nihil.\n \rDolore aut voluptatem. Est ducimus nihil est dolor officia non in. Vel placeat asperiores quos omnis. Unde rem quibusdam ipsa inventore saepe quia est voluptatibus. Aut deserunt est ipsam sed. Velit doloribus quasi eligendi debitis sint quos velit dolor et.",
+            "specifics": {
+                "display": 5.5,
+                "hdd": 8,
+                "ram": 6
+            }
+        },
+        {
+            "id": 92,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Unbranded Soft Mouse",
+            "image": "/public/images/smartphone.svg",
+            "price": "18.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Quaerat vel aliquid. Accusamus consequatur accusantium officia occaecati dolor amet cum. Suscipit voluptas atque ducimus fugiat quo qui recusandae velit harum. Atque quia veritatis nemo illo repellendus veritatis minima ut.\n \rAssumenda dolorem molestiae voluptatem dolorem beatae qui nisi iure. Dicta voluptas aut recusandae omnis quis minima sit. Aut velit aut ipsum et aperiam in iure quia alias. Repellendus amet reiciendis. Corporis voluptatem tenetur aut quidem dolore et ipsam.\n \rSit porro deleniti. Cum qui hic est ipsum mollitia inventore veniam. Quidem excepturi possimus. Quod facere modi dicta soluta eius molestiae. Veniam culpa assumenda quis. Eius consequatur iste quo expedita atque.",
+            "specifics": {
+                "display": 5,
+                "hdd": 16,
+                "ram": 1
+            }
+        },
+        {
+            "id": 93,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Awesome Wooden Chair",
+            "image": "/public/images/smartphone.svg",
+            "price": "534.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 5,
+            "discount": "",
+            "description": "Odit est aut ut ipsam est aliquid. Iste et veniam amet. Atque reiciendis illum impedit maiores porro dolor molestias rerum. Est assumenda aut eos. Quia et temporibus optio.\n \rHic repellendus neque maiores sit nulla. Dolores quibusdam molestiae earum laborum nam omnis. Ut et recusandae in fugit in nemo et. Velit esse ut dolore molestiae saepe.\n \rIste dolorem praesentium possimus autem est eveniet. Adipisci adipisci alias labore sit commodi quidem voluptate laborum accusantium. Quam voluptates alias facilis labore corporis. Modi fuga in aut architecto sit.",
+            "specifics": {
+                "display": 5.5,
+                "hdd": 4,
+                "ram": 1
+            }
+        },
+        {
+            "id": 94,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Licensed Fresh Gloves",
+            "image": "/public/images/smartphone.svg",
+            "price": "695.00",
+            "colors": [
+                "black",
+                "gold",
+                "gray"
+            ],
+            "stock": 12,
+            "discount": "",
+            "description": "Est esse voluptate sapiente iure ullam est. Et non a esse. Perspiciatis est dolorem accusantium iste hic corporis dolore omnis. Quos consequatur ad velit et. Officia labore iusto ut.\n \rOptio aut inventore. Saepe dolorem doloribus molestiae nam officia nobis tempore aliquid quis. Sint eveniet doloremque sint. Dolor corporis error temporibus facere perferendis officiis autem eligendi.\n \rQuod rerum aut facilis accusantium nobis delectus ut harum. Dignissimos itaque sed expedita cupiditate cupiditate fugiat voluptatem inventore ea. Aliquam ratione aliquam ad facilis ullam. Ducimus sit dolorem perspiciatis corrupti. Ea sed porro et ratione id qui vel id quis.",
+            "specifics": {
+                "display": 5.5,
+                "hdd": 4,
+                "ram": 4
+            }
+        },
+        {
+            "id": 95,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Rustic Metal Gloves",
+            "image": "/public/images/smartphone.svg",
+            "price": "79.00",
+            "colors": [
+                "black",
+                "gold",
+                "gray"
+            ],
+            "stock": 4,
+            "discount": 12,
+            "description": "Totam occaecati voluptatem sit labore voluptatem vel. Eum distinctio maxime dolorum rerum eligendi dolores aliquid qui iste. Nihil et ipsum at quibusdam est nihil voluptas porro sint. Ipsa sed vel. Id est maxime dolorum et. Quod dolorem iure et minima sunt.\n \rQuasi recusandae et omnis quam. Dolorem unde et debitis. Enim nam blanditiis. Et adipisci commodi architecto molestiae. Nam explicabo repellat sunt corrupti ea eos ipsum.\n \rDistinctio odit ipsam dignissimos quia. Deserunt eius suscipit recusandae totam molestias modi itaque. Id facere quis dolor omnis. Nostrum voluptate fugiat amet magnam. Iure laudantium accusamus suscipit eum rerum qui soluta. Ullam aperiam vel qui iste.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 8,
+                "ram": 3
+            }
+        },
+        {
+            "id": 96,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Unbranded Soft Ball",
+            "image": "/public/images/smartphone.svg",
+            "price": "96.00",
+            "colors": [
+                "black",
+                "gold"
+            ],
+            "stock": 7,
+            "discount": "",
+            "description": "Aut qui labore sint qui quasi. Ratione unde et consequatur. Et sint iure enim eos culpa et autem fugit dignissimos. Vel quae molestias placeat quo rerum. Est hic ut vero. Aut labore blanditiis tempora harum consequatur et.\n \rUnde occaecati cum quia. Rerum voluptatem eum. Aspernatur ut dolor sint esse qui id dicta illum.\n \rId cum et harum fugiat. Minima cum ut nihil tempora consequatur voluptatibus. Aspernatur vel fugiat distinctio quia quam rerum nam voluptatem dolores. Recusandae accusantium odit adipisci. Ut id tenetur deserunt. Est qui quam non sunt.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 32,
+                "ram": 1
+            }
+        },
+        {
+            "id": 97,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Rustic Wooden Computer",
+            "image": "/public/images/smartphone.svg",
+            "price": "734.00",
+            "colors": [
+                "black",
+                "gold",
+                "gray"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "Numquam officia enim culpa aliquam qui eos adipisci sit quaerat. Id nihil aliquam perferendis consectetur ducimus atque autem. At culpa reprehenderit voluptatem.\n \rEt a ut exercitationem. Sit molestiae architecto ad repellendus in fugit. Laboriosam dolor consequatur.\n \rError aliquid quia perspiciatis repudiandae hic voluptatum quidem maiores. Nesciunt impedit expedita qui maiores velit id est. Temporibus ipsam sint qui neque voluptas esse ut libero. Voluptatem voluptatem rerum. Labore totam qui et non libero. Ipsum omnis sed consequatur enim.",
+            "specifics": {
+                "display": 5.5,
+                "hdd": 16,
+                "ram": 1
+            }
+        },
+        {
+            "id": 98,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Rustic Metal Pizza",
+            "image": "/public/images/smartphone.svg",
+            "price": "867.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 10,
+            "discount": "",
+            "description": "Molestiae dolorum rerum. Voluptas voluptates minus vel impedit doloremque. Repellendus qui alias blanditiis ut consectetur excepturi.\n \rVoluptatem veritatis aspernatur ut modi recusandae ex nihil. Voluptates illum necessitatibus. Sunt expedita fugiat ullam est. Necessitatibus magnam amet dolorem deserunt et quod voluptatem unde occaecati. Odio ab alias voluptas ad deserunt distinctio quam sed.\n \rVoluptatibus ea voluptatem. Et vel porro explicabo id consequatur assumenda repellendus vitae. Similique accusantium voluptatem inventore. Animi qui aut illo suscipit nobis voluptas. Aut hic unde doloribus voluptas. Inventore blanditiis similique rerum sed et.",
+            "specifics": {
+                "display": 5.5,
+                "hdd": 8,
+                "ram": 6
+            }
+        },
+        {
+            "id": 99,
+            "category": "Smartphone",
+            "brand": "Brand3",
+            "name": "Gorgeous Soft Ball",
+            "image": "/public/images/smartphone.svg",
+            "price": "136.00",
+            "colors": [
+                "gray",
+                "gold"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "Ut sapiente nulla. Ex a soluta et cumque tempora reprehenderit alias. Iure in voluptatem sint facilis odit hic.\n \rNobis quasi sunt eos earum quas enim. Et quia omnis totam quo totam aut et. Unde incidunt aut et dicta atque quibusdam voluptatem vitae.\n \rNecessitatibus corrupti magni porro magni beatae. Perspiciatis reprehenderit velit ducimus adipisci. Corporis dolores pariatur amet nihil.",
+            "specifics": {
+                "display": 5,
+                "hdd": 16,
+                "ram": 6
+            }
+        },
+        {
+            "id": 100,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Tasty Steel Chicken",
+            "image": "/public/images/smartphone.svg",
+            "price": "875.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 4,
+            "discount": "",
+            "description": "Ab voluptas tenetur quo aut nobis ut ex rerum qui. Ut sint veritatis minima laborum amet. Eligendi aut iste aliquam deserunt. Voluptas minus id sunt quaerat officiis est voluptatem ut.\n \rQui magni itaque incidunt. In beatae odio libero sit sed recusandae sint vel enim. Minus et odit facilis autem ut non illo qui enim. Tenetur cupiditate autem adipisci culpa.\n \rBeatae maxime sit necessitatibus numquam eum qui nesciunt sequi quae. Ducimus iusto cupiditate corporis autem nesciunt magnam est nostrum dignissimos. Omnis quis qui natus fugiat perspiciatis nemo et. Ut magni voluptatem omnis est fugiat. Id quisquam et ut voluptate eligendi ut.",
+            "specifics": {
+                "display": 5.5,
+                "hdd": 4,
+                "ram": 4
+            }
+        },
+        {
+            "id": 101,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Generic Metal Salad",
+            "image": "/public/images/smartphone.svg",
+            "price": "396.00",
+            "colors": [
+                "gold",
+                "gray",
+                "black"
+            ],
+            "stock": 8,
+            "discount": "",
+            "description": "Rem est et est qui temporibus consectetur. Odio laborum suscipit in amet dolorum explicabo quaerat. Esse tempore vitae repudiandae quae aperiam repudiandae omnis officiis. Perferendis asperiores ducimus dignissimos velit soluta ut dolore et.\n \rQuisquam nemo voluptate explicabo. Dolores excepturi aspernatur porro. Eos eaque quia sequi.\n \rAssumenda quisquam fugit excepturi velit reiciendis iusto dolore. Modi deserunt distinctio aut magni corporis sunt minima error. Laboriosam corrupti optio fugiat fugit sapiente maxime.",
+            "specifics": {
+                "display": 5,
+                "hdd": 16,
+                "ram": 1
+            }
+        },
+        {
+            "id": 102,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Gorgeous Wooden Bacon",
+            "image": "/public/images/smartphone.svg",
+            "price": "222.00",
+            "colors": [
+                "black",
+                "gray",
+                "gold"
+            ],
+            "stock": 12,
+            "discount": "",
+            "description": "Similique debitis est non eligendi dolores est ut. Ut quod quia eum voluptas eum. Pariatur corporis laudantium quia ut. Id iusto et accusamus atque omnis placeat.\n \rDicta et aliquam. Explicabo minima distinctio animi voluptatem consectetur. Qui fuga ea voluptatum sint quaerat. Nemo ea sed nemo aliquam non sed autem.\n \rNeque molestias vel autem eius est est voluptatum et. Assumenda aspernatur quam dicta dolor. Aliquam nobis non explicabo vitae corporis ab. Voluptates corrupti atque molestiae. Dolorem et voluptas ab blanditiis illum aut.",
+            "specifics": {
+                "display": 7,
+                "hdd": 16,
+                "ram": 6
+            }
+        },
+        {
+            "id": 103,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Practical Soft Bike",
+            "image": "/public/images/smartphone.svg",
+            "price": "494.00",
+            "colors": [
+                "black",
+                "gray"
+            ],
+            "stock": 12,
+            "discount": "",
+            "description": "Non qui id laboriosam. Ad pariatur perferendis impedit accusantium rerum sint. Et molestias ab et. Consequatur repellendus enim. Aut in dolorem omnis a et.\n \rEt alias architecto placeat sed sit magnam. Distinctio minus nulla est dolor enim temporibus perspiciatis non. Dicta ut qui id. Iure nihil facere. Qui a molestiae. Quis perferendis aut esse.\n \rEst non aut dolorem velit. Neque tempore iusto neque. Velit sint sunt cupiditate explicabo culpa dolorem vel. Aut qui quaerat qui iure ut et.",
+            "specifics": {
+                "display": 6,
+                "hdd": 32,
+                "ram": 2
+            }
+        },
+        {
+            "id": 104,
+            "category": "Smartphone",
+            "brand": "Brand3",
+            "name": "Handcrafted Concrete Fish",
+            "image": "/public/images/smartphone.svg",
+            "price": "203.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 12,
+            "discount": "",
+            "description": "Corporis repellat qui consectetur quia nisi aperiam mollitia dignissimos quis. Quis harum dolor a necessitatibus earum rerum quam quae. Tenetur officiis nam. Et at libero fugit nobis rerum totam.\n \rSunt quisquam modi itaque minima quisquam ut suscipit quo. Laboriosam quos consequatur et id est sit molestiae explicabo. Sed velit maiores consequatur. Maxime nihil necessitatibus commodi rerum consequuntur velit. Debitis dolorem quae.\n \rUt est veritatis corrupti. Sint non accusantium in iste sint officia deserunt. Autem mollitia aperiam provident sit consequatur itaque hic rerum. Temporibus consequatur qui dolor dolorem vero nesciunt vitae necessitatibus. Vel numquam dignissimos rerum.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 4,
+                "ram": 4
+            }
+        },
+        {
+            "id": 105,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Small Metal Computer",
+            "image": "/public/images/smartphone.svg",
+            "price": "180.00",
+            "colors": [
+                "gold",
+                "black"
+            ],
+            "stock": 1,
+            "discount": "",
+            "description": "Voluptates quia aut iste est debitis magnam. Incidunt expedita eveniet ad omnis dignissimos sit beatae dolorem sed. Quo rerum esse. Deleniti nihil dolorem sit. Dolores alias voluptate aliquid ut corporis. Fuga error beatae aut.\n \rHic dolorum qui saepe modi. Odit dicta aspernatur quisquam sapiente. Nesciunt et incidunt incidunt reprehenderit nam id. Corrupti magni tenetur nihil repellat dicta. Rem delectus mollitia dolorum maiores error.\n \rLibero a possimus veniam ea minima ratione maiores animi dolorum. Et amet dolor dolorum. Omnis similique quas occaecati. Eos saepe iste adipisci ratione atque dicta inventore placeat animi.",
+            "specifics": {
+                "display": 6,
+                "hdd": 32,
+                "ram": 3
+            }
+        },
+        {
+            "id": 106,
+            "category": "Smartphone",
+            "brand": "Brand3",
+            "name": "Rustic Granite Pizza",
+            "image": "/public/images/smartphone.svg",
+            "price": "571.00",
+            "colors": [
+                "black",
+                "gray",
+                "gold"
+            ],
+            "stock": 9,
+            "discount": "",
+            "description": "Ut aliquid tempora non cumque reprehenderit. Delectus ad distinctio vitae ullam. Sed quasi occaecati quo repellendus laborum ut. Accusantium perspiciatis earum id quam consequatur voluptatem eius.\n \rNulla rem accusamus consequatur animi omnis illum itaque. Enim nihil ut iure et. Impedit eaque et quia voluptatem et. Culpa dolores quas est et voluptas recusandae aut ipsam.\n \rBeatae sapiente officia omnis nobis velit reprehenderit. Autem nemo doloribus sed soluta. Et dolorem labore laudantium labore explicabo beatae expedita enim repudiandae.",
+            "specifics": {
+                "display": 7,
+                "hdd": 4,
+                "ram": 3
+            }
+        },
+        {
+            "id": 107,
+            "category": "Smartphone",
+            "brand": "Brand3",
+            "name": "Refined Concrete Shoes",
+            "image": "/public/images/smartphone.svg",
+            "price": "79.00",
+            "colors": [
+                "gray",
+                "black"
+            ],
+            "stock": 1,
+            "discount": "",
+            "description": "Dolor odio quam ipsa. Ad error modi qui voluptatem. Nemo et exercitationem sunt et sint assumenda aut sed. Odit architecto rerum beatae recusandae accusantium sunt accusamus beatae aut. Assumenda corrupti reiciendis corporis libero error quis. Voluptatibus nemo eligendi vero vitae.\n \rAccusamus corporis repellat magnam optio ea distinctio. Suscipit rerum dolor sed esse quis velit. Velit et velit. Dicta minus illo iure et aut. Tempora ab cupiditate totam.\n \rQuae fugiat aspernatur voluptatem non nesciunt laboriosam corporis. Doloremque nemo eum illum optio ea. Voluptas exercitationem ut facilis itaque. Quis enim quibusdam natus quas aut dolorum necessitatibus dolores voluptate. Ea omnis veniam.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 32,
+                "ram": 6
+            }
+        },
+        {
+            "id": 108,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Generic Metal Ball",
+            "image": "/public/images/smartphone.svg",
+            "price": "939.00",
+            "colors": [
+                "black",
+                "gold"
+            ],
+            "stock": 5,
+            "discount": "",
+            "description": "Ut accusamus qui est nobis ut a nesciunt optio minima. Incidunt dolores labore sed voluptatum. Dolore voluptatibus magnam qui ipsum temporibus reprehenderit dolorem. Sit omnis dolorem ut dolores eos et sit. Temporibus eos voluptate optio commodi. Quibusdam voluptatem laudantium neque quia architecto autem.\n \rQuaerat et deleniti praesentium veritatis. Mollitia consequatur id rerum aut. Enim vel ut blanditiis quaerat. Ex magni corrupti consequatur nihil sed consequuntur tempore sed illum.\n \rRepudiandae sunt vel cum eaque enim autem vero sit saepe. Dolor aut dolor blanditiis asperiores adipisci consectetur ipsa aut. Accusamus exercitationem voluptatem doloribus vitae corporis enim suscipit consequatur sed. Ut nesciunt omnis. Vel ipsa et qui quibusdam fuga et omnis omnis dolorum. Repellat quae magni ut ipsa.",
+            "specifics": {
+                "display": 6,
+                "hdd": 16,
+                "ram": 4
+            }
+        },
+        {
+            "id": 109,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Incredible Fresh Pants",
+            "image": "/public/images/smartphone.svg",
+            "price": "501.00",
+            "colors": [
+                "gold"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Fuga enim eius optio voluptatem error. Dolorem quas ex minima dolorum explicabo dolor. Et veritatis velit doloremque.\n \rCum modi et modi officia natus alias magni. Ipsum est modi laudantium asperiores enim voluptas. Nemo sint aliquam est culpa ratione molestias et corporis. Aut inventore aut.\n \rNisi maiores vitae sit libero rerum et et. Repellat tempore molestiae consequatur adipisci itaque sed non. Earum nostrum nesciunt sit quis at perspiciatis. Sit voluptate quo. Labore a error sed.",
+            "specifics": {
+                "display": 7,
+                "hdd": 32,
+                "ram": 3
+            }
+        },
+        {
+            "id": 110,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Handcrafted Rubber Salad",
+            "image": "/public/images/smartphone.svg",
+            "price": "184.00",
+            "colors": [
+                "gray"
+            ],
+            "stock": 10,
+            "discount": 23,
+            "description": "Nihil vel optio cupiditate veniam quidem nulla odio odio autem. Distinctio explicabo saepe ab odio illum adipisci dolore. Illum vel nostrum. Non harum dolor sed accusamus. Non vel ducimus saepe temporibus similique ipsam odio aut. Repellat atque dicta necessitatibus dolore fuga rerum sit velit.\n \rQuo fugiat unde deleniti dolor qui. Et culpa hic rem. Laboriosam minus maxime nam.\n \rSed quidem enim. Iusto quisquam repudiandae. Cum vitae quibusdam natus temporibus fugit perferendis.",
+            "specifics": {
+                "display": 5.5,
+                "hdd": 4,
+                "ram": 1
+            }
+        },
+        {
+            "id": 111,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Rustic Wooden Sausages",
+            "image": "/public/images/smartphone.svg",
+            "price": "237.00",
+            "colors": [
+                "gray",
+                "gold",
+                "black"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Consequatur ut quam sed necessitatibus suscipit. Quod repellat impedit. Aliquam et dolorem ut laboriosam veniam nisi.\n \rQuo ut vero quos. Sed facere cumque dolorum et nesciunt culpa qui. Quia molestias enim doloremque quia omnis. Dolorem tempore magni et non. Cupiditate aperiam maxime aut et.\n \rMolestias animi sit fugit illum atque dicta eos consequuntur. Ea sapiente deleniti et ipsum consequatur sunt. Quisquam quaerat porro.",
+            "specifics": {
+                "display": 6,
+                "hdd": 4,
+                "ram": 2
+            }
+        },
+        {
+            "id": 112,
+            "category": "Smartphone",
+            "brand": "Brand3",
+            "name": "Fantastic Soft Cheese",
+            "image": "/public/images/smartphone.svg",
+            "price": "477.00",
+            "colors": [
+                "gold",
+                "gray",
+                "black"
+            ],
+            "stock": 11,
+            "discount": "",
+            "description": "Optio sunt in sunt. Non hic reprehenderit laudantium consequuntur reiciendis qui et voluptatem. Quos laudantium labore. Quas molestiae officiis quis. Suscipit excepturi officiis.\n \rQuo nihil soluta. In nihil aliquam et accusamus ex. At ex exercitationem dignissimos assumenda. Sunt dolores eum facilis consequatur dolores numquam quisquam. Dicta voluptatem vel sunt nihil.\n \rBeatae nobis nisi autem suscipit perferendis ad minus quia molestiae. Neque suscipit aut tempore cumque ut unde veritatis corrupti quia. Corrupti quia quo aut doloremque. Ut consectetur neque eveniet similique a maiores. Excepturi ducimus non facere illum soluta iusto illo qui est.",
+            "specifics": {
+                "display": 7,
+                "hdd": 8,
+                "ram": 6
+            }
+        },
+        {
+            "id": 113,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Generic Fresh Keyboard",
+            "image": "/public/images/smartphone.svg",
+            "price": "891.00",
+            "colors": [
+                "gold",
+                "gray",
+                "black"
+            ],
+            "stock": 13,
+            "discount": 17,
+            "description": "Commodi animi aperiam consequatur et nisi nihil. Placeat ea perspiciatis in maxime consectetur tempore cupiditate aut vero. Magni amet et corporis.\n \rAmet labore ipsa. Molestiae vero itaque eligendi voluptas placeat illo rerum ut similique. Quo dolores corporis minima repellendus nemo labore excepturi est. Doloribus voluptate ea temporibus.\n \rMinima ut quos eveniet et dignissimos praesentium. Aspernatur saepe ut et nam consequatur. Et reiciendis sunt tenetur.",
+            "specifics": {
+                "display": 5.5,
+                "hdd": 32,
+                "ram": 3
+            }
+        },
+        {
+            "id": 114,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Refined Rubber Computer",
+            "image": "/public/images/smartphone.svg",
+            "price": "660.00",
+            "colors": [
+                "gold",
+                "gray",
+                "black"
+            ],
+            "stock": 9,
+            "discount": "",
+            "description": "Est molestiae natus et magnam est et repudiandae. Debitis nobis eum nisi ullam unde consequatur aut et necessitatibus. Natus possimus similique.\n \rTotam sit sapiente magnam odit reprehenderit quos et quo eum. Deleniti adipisci odit explicabo fugiat dolores pariatur quasi quia quis. Quo accusamus soluta voluptatibus vitae veritatis reiciendis. Odio quis consequatur sequi sit ea quia aut atque. Et tempora ab.\n \rVeniam illo blanditiis tempora alias corrupti. Magni eum perferendis. Beatae et itaque soluta in vel. Sunt maxime sed eum soluta.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 4,
+                "ram": 3
+            }
+        },
+        {
+            "id": 115,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Awesome Soft Bacon",
+            "image": "/public/images/smartphone.svg",
+            "price": "436.00",
+            "colors": [
+                "gold",
+                "black",
+                "gray"
+            ],
+            "stock": 9,
+            "discount": "",
+            "description": "Rem consectetur est est sit eum tempora. Voluptas officiis nam et quisquam nesciunt et iusto quasi. Corrupti provident quam nihil aliquid. Sit est voluptate voluptates sit aut dolorem.\n \rDeserunt quam id eos quibusdam magni consequatur sunt. Corporis suscipit quo repellat rerum est excepturi modi ullam. Aspernatur deserunt pariatur dolores perferendis repudiandae magnam et illum.\n \rEt sapiente cum. Facere nesciunt et omnis saepe id unde est. Architecto dolorum consequatur eius dolorem blanditiis minima. Minus autem sed sunt quos quo.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 8,
+                "ram": 3
+            }
+        },
+        {
+            "id": 116,
+            "category": "Smartphone",
+            "brand": "Brand1",
+            "name": "Ergonomic Cotton Shoes",
+            "image": "/public/images/smartphone.svg",
+            "price": "829.00",
+            "colors": [
+                "black",
+                "gold",
+                "gray"
+            ],
+            "stock": 8,
+            "discount": "",
+            "description": "Tempore beatae voluptates vel voluptas repellat officiis. Eos facilis blanditiis at ipsam. Adipisci nulla aut quia iste.\n \rAccusantium quaerat non sed omnis repellendus et. Est debitis dolorum nostrum et error. Sed quaerat voluptatem nobis est commodi eligendi exercitationem voluptas maxime.\n \rEt vel iusto ut rerum. Ducimus id suscipit quo eos perferendis est in at occaecati. Inventore temporibus ratione voluptas velit dolore. Ullam qui est labore dolorum voluptatibus quia quod maxime. Rerum necessitatibus id eligendi dicta a quisquam perferendis quia natus.",
+            "specifics": {
+                "display": 5,
+                "hdd": 16,
+                "ram": 2
+            }
+        },
+        {
+            "id": 117,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Unbranded Cotton Car",
+            "image": "/public/images/smartphone.svg",
+            "price": "537.00",
+            "colors": [
+                "black",
+                "gold"
+            ],
+            "stock": 6,
+            "discount": "",
+            "description": "Voluptatum nobis minus dicta sunt sunt nesciunt aut. Ut similique id rerum porro ea itaque porro ducimus. Nisi saepe et quas asperiores dolor et minus. Quaerat repellat et. Beatae repudiandae molestias non et autem iure.\n \rVel ad in voluptatem quia debitis debitis qui ut aut. Soluta consequatur rem. Nisi vel beatae. Dolore ullam est magni et dolorum nostrum repudiandae occaecati voluptas.\n \rDicta voluptatem sunt vero est dolor. Dolore cum et vitae ut numquam sunt. Perspiciatis quis nam enim at quaerat. Omnis quis voluptates. Tempora placeat numquam. Facilis voluptas fuga ut.",
+            "specifics": {
+                "display": 7,
+                "hdd": 8,
+                "ram": 3
+            }
+        },
+        {
+            "id": 118,
+            "category": "Smartphone",
+            "brand": "Brand3",
+            "name": "Intelligent Rubber Shoes",
+            "image": "/public/images/smartphone.svg",
+            "price": "113.00",
+            "colors": [
+                "gray",
+                "gold"
+            ],
+            "stock": 8,
+            "discount": "",
+            "description": "Quae aliquam adipisci at beatae rem accusamus vero autem. Impedit est et atque nemo unde totam. Doloremque dolorem cupiditate quia accusamus hic ut accusamus voluptatum alias.\n \rIure quia culpa quas. Laudantium atque consequuntur omnis autem nihil. Non enim dolores cumque non sint explicabo. Harum nulla distinctio enim aperiam sapiente quae unde qui. Velit saepe reiciendis vero facilis incidunt odit ipsam dicta nobis.\n \rQuaerat deleniti reprehenderit quis laborum ex repudiandae dolorem quaerat. Expedita qui commodi incidunt praesentium at sit et mollitia necessitatibus. Rem sit sed consequatur. Culpa voluptate quos impedit expedita eum repellat quis sunt aliquid. Cumque omnis accusamus vitae. Officiis sed quas.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 16,
+                "ram": 2
+            }
+        },
+        {
+            "id": 119,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Licensed Granite Sausages",
+            "image": "/public/images/smartphone.svg",
+            "price": "130.00",
+            "colors": [
+                "gray",
+                "gold",
+                "black"
+            ],
+            "stock": 2,
+            "discount": "",
+            "description": "Sit deleniti magnam qui architecto atque laborum. Nesciunt error ducimus esse nostrum nesciunt non ab. Sit molestiae corporis. Blanditiis qui et dolor sed ab fugiat sunt cum. Recusandae porro voluptas enim ducimus. Explicabo vel repellendus enim dolor commodi.\n \rEt ducimus et. Sed architecto iste. Aut placeat deserunt voluptatem quod consequatur molestiae. Magnam aperiam in et.\n \rNesciunt quam sequi autem ea voluptas. Repellendus cumque perspiciatis. Debitis dolorem dolore animi dolorem. Asperiores pariatur amet et quis animi qui quia.",
+            "specifics": {
+                "display": 4.5,
+                "hdd": 8,
+                "ram": 2
+            }
+        },
+        {
+            "id": 120,
+            "category": "Smartphone",
+            "brand": "Brand2",
+            "name": "Rustic Plastic Ball",
+            "image": "/public/images/smartphone.svg",
+            "price": "54.00",
+            "colors": [
+                "black"
+            ],
+            "stock": 13,
+            "discount": "",
+            "description": "Sed tenetur cum. Labore doloremque perferendis. Odio et doloremque assumenda ratione. Eveniet nihil alias consectetur exercitationem dolores aspernatur. Ut veritatis quia sit sequi voluptas iusto mollitia et. Autem dolor a recusandae.\n \rBlanditiis qui eaque iure laboriosam. Eligendi veritatis pariatur qui voluptas. Expedita aliquam voluptatem. Ullam id sed voluptas consequatur nulla. Ducimus iure eum officiis odit esse sit. Sint magni quia.\n \rOmnis ut est sed voluptates ipsam et praesentium labore et. Iusto qui unde blanditiis. Ullam non cupiditate ut similique at recusandae eum. Molestiae et maxime eum unde ut laborum quia.",
+            "specifics": {
+                "display": 5.5,
+                "hdd": 4,
+                "ram": 4
+            }
+        }
+    ]
+}
