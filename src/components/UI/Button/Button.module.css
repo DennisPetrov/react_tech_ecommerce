@@ -1,0 +1,29 @@
+.btn{
+color: #fff;
+border-radius: 21px;
+background-color: #2754eb;
+border:2px solid #2754eb;
+cursor: pointer;
+padding: 11px 15px;
+line-height: 1;
+text-align: center;
+outline:none;
+font-family: inherit;
+font-size:inherit;
+min-width: 150px;
+display: inline-block;
+box-sizing: border-box;
+transition: all .3s;
+}
+.btn:hover{
+    color: #2754eb;
+    background-color: transparent;
+}
+.bluewood{
+    background-color: #343E5C;
+    border-color: #343E5C;
+}
+.bluewood:hover{
+    color: #343E5C;
+    background-color: transparent;
+}

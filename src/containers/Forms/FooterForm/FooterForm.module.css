@@ -1,0 +1,17 @@
+.wrap{
+    margin-bottom: 50px;
+    padding-top: 25px;
+}
+.wrap label{
+    color: #fff;
+}
+.columns{
+    display: flex;
+}
+.column{
+    flex: 1;
+    padding-right: 20px;
+}
+.column + .column{
+    padding-right: 0;
+}

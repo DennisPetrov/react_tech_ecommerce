@@ -1,0 +1,23 @@
+.dots{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 10px;
+}
+.slider{
+    padding-bottom: 50px;
+    margin-top: 3em;
+}
+.item{
+    outline:none;
+}
+.job{
+    color: #b9bed1;
+    margin:0.5em 0;
+}
+.name{
+    font-weight: 700;
+}
+.text{
+    color: #3a405b;
+}

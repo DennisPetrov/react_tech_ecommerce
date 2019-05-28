@@ -1,9 +1,8 @@
-import React, { Component } from 'react'
+import React from 'react'
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import ScrollToTop from './hoc/ScrollToTop';
 import Layout from './hoc/Layout';
-import Header from './components/Layout/Header/Header';
-import Footer from './components/Layout/Footer/Footer';
+import { PageList } from './config/PageList';
 
 
 function App() {
@@ -11,12 +10,13 @@ function App() {
     <BrowserRouter>
       <ScrollToTop>
         <Layout>
-          <Header/>
           <Switch>
-            <Route/>
+            {
+              Object.keys(PageList).map((key,index) => {
+              return <Route exact component={PageList[key].component} path={PageList[key].path} key={key}  />
+            })}
           </Switch>
         </Layout>
-        <Footer/>
       </ScrollToTop>
     </BrowserRouter>
   );

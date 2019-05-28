@@ -1,0 +1,13 @@
+.item{
+    /* font-size: 14px; */
+}
+.job{
+    color: #b9bed1;
+    margin:0.5em 0;
+}
+.name{
+    font-weight: 700;
+}
+.text{
+    color: #3a405b;
+}

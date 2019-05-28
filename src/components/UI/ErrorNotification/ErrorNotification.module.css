@@ -1,0 +1,14 @@
+.wrap{
+    position: fixed;
+    right: 15px;
+    top: 15px;
+    width: 250px;
+    color: #fff;
+    padding: 25px;
+    background: #f00;
+    font-size: 14px;
+    transition: all .3s;
+}
+.fade{
+    opacity: 0;
+}

@@ -1,0 +1,35 @@
+.wrap{
+    width: 33%;
+    padding: 0 7px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.inner{
+    background: #fff;
+    border-radius: 5px;
+    padding: 30px 15px 15px 15px;
+}
+.imageWrap{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.title{
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.color{
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: #b8bfd3;
+}
+.price{
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.image{
+    max-height: 100%;
+}

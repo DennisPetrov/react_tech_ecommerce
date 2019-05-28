@@ -1,4 +1,106 @@
+@import-normalize;
+
 body {
   margin: 0;
   padding: 0;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.33333;
+  background-color: #e4e5e7;
+}
+
+.container{
+  max-width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 15px;
+}
+
+img,iframe{
+  max-width: 100%;
+}
+
+a{
+  text-decoration: none;
+  color: #2754eb;
+}
+
+a:hover{
+  color: #009cfc;
+}
+
+button{
+  outline: none;
+}
+.slide{
+  outline: none;
+}
+.styled__slider .slick-dots{
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.styled__slider .slick-dots li{
+  display: inline-block;
+  margin: 0 5px;
+}
+.styled__slider .slick-dots li button{
+  background: none;
+  border:2px solid #fff;
+  width: 8px;
+  height: 8px;
+  display: block;
+  font-size: 0;
+  border-radius: 50%;
+  padding: 0;
+}
+.styled__slider .slick-dots li.slick-active button{
+  background: #fff;
+}
+
+.styled__slider--gray .slick-dots li button{
+  border-color: #b8bfd3;
+}
+.styled__slider--gray .slick-dots li.slick-active button{
+  background-color: #b8bfd3;
+}
+.slider--margin .slick-slide > div{
+  margin: 0 15px;
+}
+
+
+.slider--margin .slick-list{
+  margin: 0 -15px;
+}
+
+.main__reviews{
+  background-color: #ffffff;
+  padding: 25px 0;
+}
+
+h1,
+.h1,
+.h2,
+h2,
+h3,
+.h3{
+  font-weight: 700;
+  margin-bottom: 1em;
+  margin-bottom: 1em;
+  line-height: 1.333;
+  text-align: center;
+}
+
+h1,
+.h1{
+  font-size: 32px;
+}
+.h2,
+h2{
+  font-size: 24px;
+}
+.h3,
+h3{
+  font-weight: 700;
 }

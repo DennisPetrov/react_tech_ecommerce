@@ -1,100 +1,74 @@
-import Home from './components/home/home';
-import Dashboard from './components/dashboard/dashboard';
-import SignUp from './components/auth/SignUp';
-import SignIn from './components/auth/SignIn';
-import Cart from './components/cart/Cart';
-import AboutPage from './components/static_pages/AboutPage';
-import ContactsPage from './components/static_pages/ContactsPage';
-import BrandList from './components/shop/brands/BrandList';
-import CategoryList from './components/shop/categories/CategoryList';
-import Offers from './components/shop/offers/offers';
-import Category from './components/shop/categories/Category';
-import ProductDetail from './components/shop/product/ProductDetail';
-import Brand from './components/shop/brands/Brand';
-import InnerPageTemplate from './components/templates/InnerPageTemplate';
-import SearchResults from './components/SearchResults';
+import Home from "../containers/Page/Home/Home";
+import BrandList from "../containers/Shop/BrandList";
+import StaticPage from "../containers/Page/StaticPage";
+import Offers from "../containers/Shop/Offers";
+import ProductDetail from "../containers/Shop/ProductDetail";
+import Auth from "../containers/Auth/Auth";
+import Dashboard from "../containers/Dashboard/Dashboard";
+import SingleBrand from "../containers/Shop/SingleBrand";
+import SingleCategory from "../containers/Shop/SingleCategory";
+import CategoryList from "../containers/Shop/CategoryList";
+import Cart from "../containers/Shop/Cart";
+import SearchPage from "../containers/Search/SearchPage";
 
-
-
-const PageList = [
-    {
+const PageList = {
+    home:{
         component: Home,
         path: "/",
-        exact: true,
     },
-    {
-        component: AboutPage,
+    about:{
+        component: StaticPage,
         path: "/about",
-        template:InnerPageTemplate,
     },
-    {
-        component: ContactsPage,
+    delivery:{
+        component: StaticPage,
+        path: "/delivery",
+    },
+    contacts:{
+        component: StaticPage,
         path: "/contacts",
-        template:InnerPageTemplate,
     },
-    {
+    offers:{
         component: Offers,
         path: "/shop/offers",
-        template:InnerPageTemplate,
     },
-    {
+    brandList:{
         component: BrandList,
         path: "/shop/brands",
-        exact: true,
-        template:InnerPageTemplate,
     },
-    {
+    product:{
         component: ProductDetail,
-        path: "/shop/categories/:category/:product",
-        template:InnerPageTemplate,
-        behavior:"product",
+        path: "/shop/products/:product",
     },
-    {
-        component: SignIn,
-        path: "/signin",
-        template:InnerPageTemplate,
+    auth:{
+        component: Auth,
+        path: "/auth",
     },
-    {
+    dashboard:{
         component: Dashboard,
         path: "/dashboard",
-        template:InnerPageTemplate,
     },
-    {
-        component: Brand,
+    singleBrand:{
+        component: SingleBrand,
         path: "/shop/brands/:brand",
-        template:InnerPageTemplate,
-        behavior:"brand"
     },
-    {
-        component: Category,
+    singleCategory:{
+        component: SingleCategory,
         path: "/shop/categories/:category",
-        exact:true,
-        template:InnerPageTemplate,
-        behavior:"category",
     },
-    {
+    categoryList:{
         component: CategoryList,
         path: "/shop",
-        template:InnerPageTemplate,
     },
-
-    {
-        component: SignUp,
-        path: "/signup",
-        template:InnerPageTemplate,
-    },
-    {
+    cart:{
         component: Cart,
         path: "/cart",
-        template:InnerPageTemplate,
     }
     ,
-    {
-        component: SearchResults,
+    searchPage:{
+        component: SearchPage,
         path: "/search",
-        template:InnerPageTemplate,
-        behavior:"search",
     }
-];
+};
 
 export { PageList };
