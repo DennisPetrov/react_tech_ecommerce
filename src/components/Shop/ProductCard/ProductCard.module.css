@@ -9,6 +9,11 @@
     background: #fff;
     border-radius: 5px;
     padding: 30px 15px 15px 15px;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    position: relative;
 }
 .imageWrap{
     height: 200px;
@@ -20,6 +25,7 @@
 .title{
     font-weight: 700;
     margin-bottom: 15px;
+    min-height: 42px;
 }
 .color{
     font-size: 12px;
@@ -32,4 +38,25 @@
 }
 .image{
     max-height: 100%;
+}
+.controls{
+    margin-top: auto;
+}
+.rating{
+    position: absolute;
+    right: 15px;
+    top: 9px;
+}
+.ratingIcon{ 
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    vertical-align: middle;
+}
+.ratingNumber{
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    top: 2px;
+    margin-left: 5px;
 }

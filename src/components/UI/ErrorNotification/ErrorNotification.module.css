@@ -9,6 +9,6 @@
     font-size: 14px;
     transition: all .3s;
 }
-.fade{
-    opacity: 0;
+.hide{
+    right: -300px;
 }

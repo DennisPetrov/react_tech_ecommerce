@@ -4,6 +4,7 @@ import Checkbox from '../../FormElements/Checkbox/Checkbox';
 import Input from '../../FormElements/Input/Input';
 import RangeWrap from '../../FormElements/RangeWrap/RangeWrap';
 import Button from '../../UI/Button/Button';
+import Loading from '../../UI/Loading/Loading';
 
 
 
@@ -51,29 +52,35 @@ const printCheckFilter = (filter, item, props) => {
 }
 const printRangeFilter = (filter, item, props) => {
     return (
-        <RangeWrap  min={item.min}
-        name={filter}
-        label={props.filter[filter].name}
-        inputStyleClass="white"
-        max={item.max}
-        valueSlider={props[filter+"Range"]}
-        valueMin={props[filter + "min"]}
-        valueMax={props[filter + "max"]}
-        errorMin={props[filter+"minError"]}
-        errorMax={props[filter+"maxError"]}  
-        handleSliderInputChange = {props.handleSliderInputChange} 
-        handleSliderChange={props.handleSliderChange} />);
+        <RangeWrap min={item.min}
+            name={filter}
+            label={props.filter[filter].name}
+            inputStyleClass="white"
+            max={item.max}
+            valueSlider={props[filter + "Range"]}
+            valueMin={props[filter + "min"]}
+            valueMax={props[filter + "max"]}
+            errorMin={props[filter + "minError"]}
+            errorMax={props[filter + "maxError"]}
+            handleSliderInputChange={props.handleSliderInputChange}
+            handleSliderChange={props.handleSliderChange} />);
 }
 const ShopFilter = (props) => {
     return (
         <div className={classes.wrap}>
-            <div className={classes.group}>
-                {printFilters(props)}
-            </div>
-            <div className={classes.applyWrap}>
-                <Button  onClick={props.applyFilter} className={classes.filterControl}>Apply filter</Button>
-                <Button onClick={props.resetFilter} styleClass="bluewood" className={classes.filterControl}>Reset</Button>
-            </div>
+            {props.filter && props.loaded ?
+                <React.Fragment>
+                    <div className={classes.group}>
+                        {printFilters(props)}
+                    </div>
+                    <div className={classes.applyWrap}>
+                        <Button onClick={props.applyFilter} className={classes.filterControl}>Apply filter</Button>
+                        <Button onClick={props.resetFilter} styleClass="bluewood" className={classes.filterControl}>Reset</Button>
+                    </div>
+                </React.Fragment>
+                :
+                <Loading visible={true} width={150}  />
+            }
         </div>
     );
 };

@@ -10,6 +10,8 @@ class Layout extends Component {
     state = {
         showError: false,
     }
+ 
+    
     componentDidUpdate(prevProps) {
         if (prevProps.lastErrorTime !== this.props.lastErrorTime) {
             this.showError();
@@ -48,10 +50,6 @@ const mapStateToProps = (state) => {
         lastErrorTime: state.error.errorTime
     }
 }
-const mapDispatchToProps = dispatch => {
-    return {
-        searchFast: (subject) => dispatch(searchFast(subject))
-    }
-}
 
-export default connect(mapStateToProps, mapDispatchToProps)(Layout);
+
+export default connect(mapStateToProps, null)(Layout);

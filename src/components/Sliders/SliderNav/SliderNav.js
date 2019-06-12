@@ -5,7 +5,7 @@ export function NextArrow(props) {
     const { className, onClick } = props;
     return (
         <button
-            className={className + " " + classes.nextArrow + " " + classes[props.styleClass]}
+            className={className + " " + classes.nextArrow + " " + (classes[props.styleClass] ? classes[props.styleClass] : "")}
             onClick={onClick}
         />
     );
@@ -15,7 +15,7 @@ export function PrevArrow(props) {
     const { className, onClick } = props;
     return (
         <button
-            className={className + " " + classes.prevArrow + " " + classes[props.styleClass]}
+            className={className + " " + classes.prevArrow + " " + (classes[props.styleClass] ? classes[props.styleClass] : "")}
             onClick={onClick}
         />
     );

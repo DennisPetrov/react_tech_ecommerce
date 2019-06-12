@@ -2,10 +2,9 @@ import React from 'react';
 import classes from './ErrorNotification.module.css';
 
 const ErrorNotification = (props) => {
-    console.log(1);
     const popupClasses=[classes.wrap];
     if(!props.showError){
-        popupClasses.push(classes.fade);
+        popupClasses.push(classes.hide);
     }
     return (
         <div className={popupClasses.join(" ")}>
@@ -15,4 +14,4 @@ const ErrorNotification = (props) => {
 };
 
 
-export default ErrorNotification;
+export default React.memo(ErrorNotification);

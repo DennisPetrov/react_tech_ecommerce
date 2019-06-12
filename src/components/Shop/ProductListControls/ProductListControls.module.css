@@ -1,0 +1,12 @@
+.wrap{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    padding: 0 7px;
+}
+.paginationSettingsWrap{
+    margin-right: 15px;
+}
+.sortWrap{
+margin-right: 15px;
+}

@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "lodash.debounce": "^4.0.8",
     "rc-slider": "^8.6.11",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -20,7 +21,7 @@
     "build": "react-scripts build ",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "rundev":"json-server --watch db.json --port 3004"
+    "devserv": "json-server --watch db.json --port 3004"
   },
   "eslintConfig": {
     "extends": "react-app"

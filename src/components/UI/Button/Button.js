@@ -4,9 +4,11 @@ import {Link} from 'react-router-dom';
 
 const Button = (props) => {
     let Tag;
+    const conditionalAttributes={};
     switch(props.type){
         case "link":{
             Tag=Link;
+            conditionalAttributes.to=props.to;
             break;
         }
         default:{
@@ -20,9 +22,8 @@ const Button = (props) => {
     if(props.className){
         buttonClasses.push(props.className);
     }
-
     return (
-        <Tag to={props.to} onClick={props.onClick} className={buttonClasses.join(" ")}>
+        <Tag {...conditionalAttributes} onClick={props.onClick} className={buttonClasses.join(" ")}>
             {props.children}
         </Tag>
     );

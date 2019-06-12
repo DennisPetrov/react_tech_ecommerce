@@ -25,12 +25,7 @@ const Header = (props) => {
             <div className={classes.headerBottom}>
                 <div className={`container ${classes.container}`}>
                     <div className={classes.search}>
-                        <SearchPreview 
-                        searchResult={props.searchResult}
-                        searchSubject={props.searchSubject} 
-                        performSearch={props.performSearch}
-                        handleSearchInputChange={props.handleSearchInputChange}
-                        />
+                        <SearchPreview />
                     </div>
                     <div className={classes.customerControls}>
                         <Link to={PageList.cart.path} className={classes.cart}>

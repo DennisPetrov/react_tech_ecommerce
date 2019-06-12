@@ -35,3 +35,16 @@
 .searchResultItem{
     margin: 15px 0;
 }
+.searchResultHidden{
+    display: none;
+}
+.closeSearchList{
+    right: 5px;
+    top: 5px;
+    font-size: 33px;
+    color: #000;
+    position: absolute;
+    display: block;
+    cursor: pointer;
+    line-height: 1;
+}

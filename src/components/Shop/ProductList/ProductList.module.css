@@ -1,7 +1,5 @@
 .wrap{
     display: flex;
     flex-wrap: wrap;
-}
-.inner{
-    
+    position: relative;
 }
